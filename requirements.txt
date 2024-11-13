@@ -3,4 +3,6 @@ pandas==2.0.3
 numpy==1.24.2
 tensorflow==2.13.0
 openpyxl==3.1.2
-distutils
+setuptools>=64.0.0
+wheel
+Cython
