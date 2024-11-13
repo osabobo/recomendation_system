@@ -6,3 +6,5 @@ openpyxl==3.1.2
 setuptools>=65.0.0
 wheel
 Cython
+pip>=24.3.1
+
