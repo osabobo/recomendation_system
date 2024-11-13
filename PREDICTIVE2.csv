@@ -1,0 +1,1001 @@
+Sell_to_Customer_Name,DOMAIN,Shortcut_Dimension_Code,City,Customer_ID,TOTAL,SUM_TOTAL,Description,Currency_Code,Quantity,Unit_Price,Size,Gen_ Bus_ Posting Group,Document_Type,Order_Date_Year,Order_Date_M&Y,Global_Dimension_Code,Gen_ Bus_ Posting_Group,Gen_Prod_ Posting_Group
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00171,26020,0,User License,USD,10,2088,Small Quanity,DOMESTIC,0,2021,Nov-21,MS-CRM,DOMESTIC,SOFTWARE
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00171,26020,0,User License,USD,10,418,Small Quanity,DOMESTIC,0,2021,Dec-21,MS-CRM,DOMESTIC,SOFTWARE
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00171,26020,26020,Power BI Premium License,USD,4,240,Small Quanity,DOMESTIC,1,2024,Jan-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,4501755.4,Licenses,USD,1,0,Small Quanity,DOMESTIC,0,2021,Feb-22,MS-CRM,DOMESTIC,SOFTWARE
+First Nominees Nigeria Ltd,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Windows Server,USD,1,1036.8,Small Quanity,DOMESTIC,0,2021,Mar-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,WHT Management,USD,1,3500,Small Quanity,DOMESTIC,0,2021,Apr-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,SQL Server License ,USD,1,889,Small Quanity,DOMESTIC,0,2021,May-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,5,1320,Small Quanity,DOMESTIC,0,2021,Jun-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,SQL Cal License,USD,5,205,Small Quanity,DOMESTIC,0,2021,Jul-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,4,150,Small Quanity,DOMESTIC,0,2021,Aug-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft Project,USD,4,84,Small Quanity,DOMESTIC,0,2021,Sep-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,4,60,Small Quanity,DOMESTIC,0,2021,Oct-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,NGN,20,47520,Large Quantity,DOMESTIC,0,2020,Nov-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Essential User Licenses,NGN,5,1200,Small Quanity,DOMESTIC,0,2019,Dec-22,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Team Member User Licenses,NGN,5,240,Small Quanity,DOMESTIC,0,2019,Jan-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,20,576.96,Large Quantity,DOMESTIC,0,2019,Feb-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,1,4818,Small Quanity,DOMESTIC,0,2019,Mar-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,20,114.48,Large Quantity,DOMESTIC,0,2019,Apr-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,15,72,Small Quanity,DOMESTIC,0,2024,May-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,5,3304,Small Quanity,DOMESTIC,0,2024,Jun-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,NGN,10,343200,Small Quanity,DOMESTIC,0,2024,Jul-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,New Licenses,USD,0,0,Small Quanity,DOMESTIC,0,2023,Aug-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-NAV,LAGOS,00076,4501755.4,0,Essential User Licenses,USD,17,840,Small Quanity,DOMESTIC,0,2023,Sep-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-NAV,LAGOS,00076,4501755.4,0,Team Member User Licenses,USD,3,96,Small Quanity,DOMESTIC,0,2023,Oct-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Office 365 Business,USD,20,86.4,Large Quantity,DOMESTIC,0,2023,Nov-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,4,150,Small Quanity,DOMESTIC,0,2023,Dec-23,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Power BI Pro License ,USD,2,120,Small Quanity,DOMESTIC,0,2023,Jan-24,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,150,570,Large Quantity,DOMESTIC,0,2023,Feb-24,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,120,264,Large Quantity,DOMESTIC,0,2022,Mar-24,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,30,96,Large Quantity,DOMESTIC,0,2022,Apr-24,MS-CRM,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,4501755.4,Bit Titan License,USD,150,15,Large Quantity,DOMESTIC,0,2022,May-24,MS-CRM,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-CRM,LAGOS,00109,41121.1,0,User License,USD,1,2176.16,Small Quanity,DOMESTIC,0,2021,Jun-24,MS-CRM,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-CRM,LAGOS,00109,41121.1,0,User License,USD,1,509.46,Small Quanity,DOMESTIC,0,2021,Jul-24,MS-CRM,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-CRM,LAGOS,00109,41121.1,0,User License,USD,1,22598.4,Small Quanity,DOMESTIC,0,2021,Aug-24,MS-CRM,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-CRM,LAGOS,00109,41121.1,0,Essential User Licenses,USD,4,2176.16,Small Quanity,DOMESTIC,0,2022,Sep-24,MS-CRM,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-CRM,LAGOS,00109,41121.1,41121.1,Team Member User Licenses,USD,14,509.46,Small Quanity,DOMESTIC,0,2022,Oct-24,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,February License Payment,USD,1,24018.14,Small Quanity,DOMESTIC,3,2022,Nov-24,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,March License Payment,USD,0,24018.14,Small Quanity,DOMESTIC,3,2022,Dec-24,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,February License Payment,USD,0,24018.14,Small Quanity,DOMESTIC,3,2022,Jan-25,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,March License Payment,USD,1,24018.14,Small Quanity,DOMESTIC,3,2022,Feb-25,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,0,Azure,USD,1,9760.28,Small Quanity,DOMESTIC,0,2023,Mar-25,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,0,Microsoft 365 Business License,USD,1,34243,Small Quanity,DOMESTIC,0,2023,Apr-25,MS-CRM,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,96072.56,SQL Server License ,USD,1,4033,Small Quanity,DOMESTIC,0,2023,May-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,GENERAL,LAGOS,00142,218285.44,0,Microsoft 365 Business License,NGN,2,22183.36,Small Quanity,DOMESTIC,3,2018,Jun-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,GENERAL,LAGOS,00142,218285.44,0,Microsoft 365 Business License,NGN,3,5792,Small Quanity,DOMESTIC,3,2018,Jul-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,GENERAL,LAGOS,00142,218285.44,0,Microsoft 365 Business License,NGN,2,22183.36,Small Quanity,DOMESTIC,3,2018,Aug-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,GENERAL,LAGOS,00142,218285.44,0,Microsoft 365 Business License,NGN,3,5792,Small Quanity,DOMESTIC,3,2018,Sep-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,Others,LAGOS,00142,218285.44,0,User License,USD,1,32688,Small Quanity,DOMESTIC,0,2020,Oct-25,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Oil and Gas Sector,Others,LAGOS,00142,218285.44,218285.44,User License,USD,1,62112,Small Quanity,DOMESTIC,0,2020,Nov-25,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,MS-OFF,LAGOS,00028,263128,0,Exchange Online ,NGN,3,48,Small Quanity,DOMESTIC,3,2019,Dec-25,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Microsoft 365 Business License,USD,10,420,Small Quanity,DOMESTIC,2,2018,Jan-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Microsoft 365 Business License,USD,320,240,Large Quantity,DOMESTIC,2,2018,Feb-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Microsoft 365 Business License,USD,50,96,Large Quantity,DOMESTIC,2,2018,Mar-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Microsoft 365 Business License,USD,4,600,Small Quanity,DOMESTIC,2,2018,Apr-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Azure,USD,1,42000,Small Quanity,DOMESTIC,2,2018,May-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,Others,LAGOS,00028,263128,0,Tables,NGN,1,128064,Small Quanity,DOMESTIC,0,2015,Jun-26,MS-CRM,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Logistics Sector,MS-NAV,LAGOS,00028,263128,263128,User License,USD,10,472,Small Quanity,DOMESTIC,0,2024,Jul-26,MS-CRM,DOMESTIC,SOFTWARE
+STARSIGHT LIMITED,Renewable Energy Sector,MS-CRM,LAGOS,00153,380,380,Credit note for erroneous PMT ,USD,1,380,Small Quanity,DOMESTIC,3,2020,Aug-26,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Azure,USD,1,6962.76,Small Quanity,DOMESTIC,3,2021,Sep-26,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,ERP License ,USD,1,278.4,Small Quanity,DOMESTIC,0,2021,Oct-26,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,SQL Cal License,USD,1,206,Small Quanity,DOMESTIC,0,2021,Nov-26,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,BC limited user,USD,1,278.4,Small Quanity,DOMESTIC,0,2021,Dec-26,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Microsoft 365 Business License,USD,1,1394.44,Small Quanity,DOMESTIC,0,2020,Jan-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Azure,USD,1,6962.76,Small Quanity,DOMESTIC,1,2024,Feb-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Test Enivornment,USD,1,4485.93,Small Quanity,DOMESTIC,1,2024,Mar-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Storage ,USD,1,92.6,Small Quanity,DOMESTIC,1,2024,Apr-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AX,LAGOS,00188,40302.66,0,Azure,USD,1,5592.48,Small Quanity,DOMESTIC,1,2024,May-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AX,LAGOS,00188,40302.66,0,Azure,USD,1,3270.25,Small Quanity,DOMESTIC,1,2024,Jun-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Cloud Hosting ,NGN,1,9578.64,Small Quanity,DOMESTIC,1,2024,Jul-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Disaster Recovery,NGN,1,1200,Small Quanity,DOMESTIC,1,2024,Aug-27,MS-CRM,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,40302.66,New Licenses,NGN,0,0,Small Quanity,DOMESTIC,1,2024,Sep-27,MS-CRM,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,0,Microsoft 365 Business License,USD,2,150,Small Quanity,DOMESTIC,3,2022,Oct-27,MS-CRM,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,0,Microsoft 365 Business License,USD,8,72,Small Quanity,DOMESTIC,3,2022,Nov-27,MS-CRM,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,720876,Microsoft 365 Business License,NGN,8,90000,Small Quanity,DOMESTIC,0,2022,Dec-27,MS-CRM,DOMESTIC,SOFTWARE
+First Nominees Nigeria Ltd,Financial Services Sector,Others,LAGOS,00315,0,0,Essential User Licenses,NGN,5,0,Small Quanity,DOMESTIC,2,2024,Jan-28,MS-CRM,DOMESTIC,SOFTWARE
+UBA Pensions Custodian Limited,Pension Fund Management Sector,MS-NAV,LAGOS,00172,62694360,0,Microsoft Dynamics NAV License,NGN,1,50440175.35,Small Quanity,DOMESTIC,3,2018,Feb-28,MS-CRM,DOMESTIC,SOFTWARE
+UBA Pensions Custodian Limited,Pension Fund Management Sector,MS-NAV,LAGOS,00172,62694360,62694360,Microsoft Dynamics NAV License,NGN,1,12254184.65,Small Quanity,DOMESTIC,3,2018,Mar-28,MS-CRM,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,Microsoft Dynamics NAV License,USD,1,49514,Small Quanity,DOMESTIC,2,2017,Apr-28,MS-CRM,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",MS-NAV,LAGOS,00140,132810,0,Microsoft Dynamics NAV License,USD,1,37056,Small Quanity,DOMESTIC,0,2020,May-28,MS-CRM,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,Full Concurrent CAL ,USD,20,1800,Large Quantity,DOMESTIC,0,2018,Jun-28,MS-CRM,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,Limited Concurrent CAL ,USD,20,360,Large Quantity,DOMESTIC,0,2018,Jul-28,MS-CRM,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,132810,SQL Server License ,USD,40,76,Large Quantity,DOMESTIC,0,2018,Aug-28,MS-CRM,DOMESTIC,SOFTWARE
+Ajinomoto Foods Nigeria Limited,Food and Beverage Sector,MS-NAV,LAGOS,00289,1961.04,0,Team Member User Licenses,USD,3,37,Small Quanity,DOMESTIC,1,2024,Sep-28,MS-CRM,DOMESTIC,SOFTWARE
+Ajinomoto Foods Nigeria Limited,Food and Beverage Sector,MS-NAV,LAGOS,00289,1961.04,1961.04,Premium License,USD,4,462.51,Small Quanity,DOMESTIC,1,2024,Oct-28,MS-CRM,DOMESTIC,SOFTWARE
+Pinnacle Oil and Gas,Oil and Gas Sector,MS-AZ,LAGOS,00243,10357.76,0,MS Azure Cloud Hosting Service Renewal,USD,1,9857.76,Small Quanity,DOMESTIC,1,2024,Nov-28,MS-CRM,DOMESTIC,SOFTWARE
+Pinnacle Oil and Gas,Oil and Gas Sector,Others,LAGOS,00243,10357.76,10357.76,Annual SSL Certificate,USD,5,100,Small Quanity,DOMESTIC,0,2022,Dec-28,MS-CRM,DOMESTIC,SOFTWARE
+Beta Glass Plc.,Manufacturing Sector,MS-CRM,LAGOS,00026,20412000,0,Dynamics 365 Customer Service Enterprise,NGN,10,1108080,Small Quanity,DOMESTIC,1,2024,Jan-29,MS-CRM,DOMESTIC,SOFTWARE
+Beta Glass Plc.,Manufacturing Sector,MS-CRM,LAGOS,00026,20412000,20412000,Dynamics 365 Team Members,NGN,100,93312,Large Quantity,DOMESTIC,1,2024,Feb-29,MS-CRM,DOMESTIC,SOFTWARE
+Lee Engineering and Construction Co. Ltd,"Engineering, Procurement and Construction Sector",MS-AZ,LAGOS,00258,5189.52,5189.52,Azure,USD,1,5189.52,Small Quanity,DOMESTIC,1,2024,Mar-29,MS-CRM,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,MS-NAV,LAGOS,00176,1501740,0,HR & Payroll Module,NGN,1,1500000,Small Quanity,DOMESTIC,1,2024,Apr-29,MS-CRM,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,Others,LAGOS,00176,1501740,0,"Page, Report and XML",USD,1,1670,Small Quanity,DOMESTIC,0,2019,May-29,MS-CRM,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,Others,LAGOS,00176,1501740,1501740,BC Server C Drive,USD,7,10,Small Quanity,DOMESTIC,0,2023,Jun-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 for Team Members Enterprise Edition,USD,61,96,Large Quantity,DOMESTIC,1,2024,Jul-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Unf Ops Plan,USD,20,2520,Large Quantity,DOMESTIC,1,2024,Aug-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Operations Activity,USD,6,600,Small Quanity,DOMESTIC,1,2024,Sep-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Customer Engagement Plan Enterprise Edition Tier 1 (1-99 users),USD,10,1140,Small Quanity,DOMESTIC,1,2024,Oct-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dev. Environment,USD,1,2634.45,Small Quanity,DOMESTIC,1,2024,Nov-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,Others,LAGOS,00160,46955028.45,0,Power Platform Environment Storage,USD,100,480,Large Quantity,DOMESTIC,0,2024,Dec-29,MS-CRM,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,Others,LAGOS,00160,46955028.45,46955028.45,Azure,NGN,1,46833138,Small Quanity,DOMESTIC,0,2023,Jan-30,MS-CRM,DOMESTIC,SOFTWARE
+Sarman Integrated Farms and Solutions Limited ,Agriculture and Agribusiness Sector,MS-NAV,KANO,00278,15.99,15.99,Business Central SSL Certificate,USD,1,15.99,Small Quanity,DOMESTIC,1,2024,Feb-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-PBI,LAGOS,00231,22578979.36,0,Azure,NGN,1,3310437.6,Small Quanity,DOMESTIC,1,2024,Mar-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Team Member User Licenses,NGN,1,726880,Small Quanity,DOMESTIC,1,2024,Apr-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Essential User Licenses,NGN,2,2180640,Small Quanity,DOMESTIC,1,2024,May-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,BoQ Excel Add-on,USD,1,802,Small Quanity,DOMESTIC,0,2021,Jun-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,Windows Server,NGN,25,98793.6,Large Quantity,DOMESTIC,0,2021,Jul-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Microsoft Defender,USD,1,60,Small Quanity,DOMESTIC,0,2024,Aug-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Microsoft Defender,USD,1,66,Small Quanity,DOMESTIC,0,2024,Sep-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Azure VM replica,USD,1,9480,Small Quanity,DOMESTIC,0,2024,Oct-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Azure Cloud Hosting & Site Recovery,USD,1,8294,Small Quanity,DOMESTIC,0,2024,Nov-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Azure Firewall,USD,1,11146.56,Small Quanity,DOMESTIC,0,2024,Dec-30,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Microsoft 365 Business License,USD,1,19572,Small Quanity,DOMESTIC,0,2024,Jan-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,MS DYN 365 LIC,USD,1,10843.2,Small Quanity,DOMESTIC,0,2024,Feb-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,NAVBuild Enhancement ,USD,1,3930,Small Quanity,DOMESTIC,0,2024,Mar-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,HR & Payroll Module,USD,1,1200,Small Quanity,DOMESTIC,0,2024,Apr-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,Essential User Licenses,NGN,2,1656720,Small Quanity,DOMESTIC,0,2023,May-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,NAVBuild Enhancement ,NGN,24,280800,Large Quantity,DOMESTIC,0,2023,Jun-31,MS-CRM,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,22578979.36,Power Apps License ,NGN,5,343200,Small Quanity,DOMESTIC,0,2023,Jul-31,MS-CRM,DOMESTIC,SOFTWARE
+Bajol Integrated Services Limited,Oil and Gas Sector,MS-AZ,LAGOS,00244,3806.23,3806.23,Azure,USD,1,3806.23,Small Quanity,DOMESTIC,1,2024,Aug-31,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,HR & Payroll Module,USD,1,11500,Small Quanity,DOMESTIC,1,2024,Sep-31,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,Time and Attendance Machine,USD,3,420,Small Quanity,DOMESTIC,1,2024,Oct-31,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,T&M ADDON SOLUTION,USD,1,3000,Small Quanity,DOMESTIC,1,2024,Nov-31,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,MS DYN 365 BC,USD,15,840,Small Quanity,DOMESTIC,1,2024,Dec-31,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,MS DYN 365 BC,USD,15,96,Small Quanity,DOMESTIC,1,2024,Jan-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-NAV,LAGOS,00174,687718.2,0,Microsoft 365 Business License,USD,1,43.2,Small Quanity,DOMESTIC,1,2024,Feb-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,Others,LAGOS,00174,687718.2,0,Service Charge,USD,1,5,Small Quanity,DOMESTIC,0,2021,Mar-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,Others,LAGOS,00174,687718.2,0,Windows Server,NGN,5,26250,Small Quanity,DOMESTIC,0,2024,Apr-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,Others,LAGOS,00174,687718.2,0,Windows Server,NGN,1,525000,Small Quanity,DOMESTIC,0,2024,May-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-OFF,LAGOS,00174,687718.2,0,MS PROJECT SOFTWARE,USD,3,360,Small Quanity,DOMESTIC,0,2024,Jun-32,MS-CRM,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Oil and Gas Sector,MS-OFF,LAGOS,00174,687718.2,687718.2,MS VISIO SOFTWARE,USD,3,180,Small Quanity,DOMESTIC,0,2024,Jul-32,MS-CRM,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,0,Azure,USD,1,3216.3,Small Quanity,DOMESTIC,1,2024,Aug-32,MS-CRM,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,0,Azure,USD,1,5386.68,Small Quanity,DOMESTIC,0,2024,Sep-32,MS-CRM,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,Others,LAGOS,00202,22017.82,0,Additional Storage,USD,1,6847.32,Small Quanity,DOMESTIC,0,2024,Oct-32,MS-CRM,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,Others,LAGOS,00202,22017.82,0,Remote Desktop Services CAL,USD,1,220,Small Quanity,DOMESTIC,0,2024,Nov-32,MS-CRM,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,22017.82,Azure,USD,1,6347.52,Small Quanity,DOMESTIC,0,2022,Dec-32,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer,USD,2,360,Small Quanity,DOMESTIC,1,2024,Jan-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Human Resources Attach to Qualifying Dynamics 365 Base Offer,USD,2,360,Small Quanity,DOMESTIC,1,2024,Feb-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Team Members,USD,100,96,Large Quantity,DOMESTIC,1,2024,Mar-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Azure Active Directory,USD,1,72,Small Quanity,DOMESTIC,1,2024,Apr-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Finance,USD,30,1800,Large Quantity,DOMESTIC,1,2024,May-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,Others,LAGOS,00214,68520.28,0,Dev. Environment,USD,3,852.07,Small Quanity,DOMESTIC,0,2024,Jun-33,MS-CRM,DOMESTIC,SOFTWARE
+Tangerine Life,Financial Services Sector,Others,LAGOS,00214,68520.28,68520.28,Microsoft Dev. Environment,USD,1,852.07,Small Quanity,DOMESTIC,0,2022,Jul-33,MS-CRM,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,VAT 15%,USD,1,4.9905,Small Quanity,FOREIGN,1,2024,Aug-33,MS-CRM,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,Annual SSL Certificate,USD,1,31.39,Small Quanity,FOREIGN,1,2024,Sep-33,MS-CRM,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,GetFund+NHIL+COVID 19 Levy,USD,1,1.8834,Small Quanity,FOREIGN,1,2024,Oct-33,MS-CRM,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-AZ,ACCRA,00263,10498.55,10498.55,Azure,USD,1,10460.292,Small Quanity,FOREIGN,0,2024,Nov-33,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Tables,USD,2,944,Small Quanity,DOMESTIC,1,2024,Dec-33,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Code Units,USD,1,944,Small Quanity,DOMESTIC,1,2024,Jan-34,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Reports,USD,1,944,Small Quanity,DOMESTIC,1,2024,Feb-34,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,4720,Pages,USD,1,944,Small Quanity,DOMESTIC,1,2024,Mar-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft 365 App,USD,20,0,Large Quantity,DOMESTIC,1,2024,Apr-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Visio 2020 Plan 2,USD,2,180,Small Quanity,DOMESTIC,0,2021,May-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft Project,USD,1,360,Small Quanity,DOMESTIC,0,2021,Jun-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft 365 App,USD,20,99.6,Large Quantity,DOMESTIC,1,2022,Jul-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,0,Migration Tool,USD,70,18,Large Quantity,DOMESTIC,0,2023,Aug-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,0,Microsoft 365 Business License,USD,70,150,Large Quantity,DOMESTIC,0,2023,Sep-34,MS-CRM,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,15897,Professional Fee,USD,1,3000,Small Quanity,DOMESTIC,0,2023,Oct-34,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_DB-APP_UPGRADE,USD,1,7729.2,Small Quanity,DOMESTIC,1,2024,Nov-34,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,11257.92,Small Quanity,DOMESTIC,1,2024,Dec-34,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,7741.44,Small Quanity,DOMESTIC,1,2024,Jan-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B8ms, Windows and OS",USD,1,3840.12,Small Quanity,DOMESTIC,1,2024,Feb-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"Internet egress, 1000GB",USD,1,939.6,Small Quanity,DOMESTIC,1,2024,Mar-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"Basic (ARM), Dynamic IP Addresses, Static IP Addresses",USD,1,266.28,Small Quanity,DOMESTIC,1,2024,Apr-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,Virtual Network,USD,1,48,Small Quanity,DOMESTIC,1,2024,May-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,Customer instances and Azure instances,USD,1,1968,Small Quanity,DOMESTIC,1,2024,Jun-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,11257.92,Small Quanity,DOMESTIC,1,2024,Jul-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B2ms, Windows and OS",USD,1,1007.16,Small Quanity,DOMESTIC,1,2024,Aug-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B8ms, Windows and OS",USD,1,3840.12,Small Quanity,DOMESTIC,1,2024,Sep-35,MS-CRM,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,50815.2,"B2ms, Windows and OS",USD,1,919.44,Small Quanity,DOMESTIC,1,2024,Oct-35,MS-CRM,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,Dynamics 365 Customer Service Enterprise Attach to Qualifying Dynamics 365 Base Offer,NGN,1,372000,Small Quanity,DOMESTIC,1,2024,Nov-35,MS-CRM,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,Dynamics 365 Field Service,NGN,17,1767000,Small Quanity,DOMESTIC,1,2024,Dec-35,MS-CRM,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,User License,NGN,11,210600,Small Quanity,DOMESTIC,1,2023,Jan-36,MS-CRM,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,33780600,Essential User Licenses,NGN,1,1053000,Small Quanity,DOMESTIC,1,2023,Feb-36,MS-CRM,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,Others,LAGOS,00230,8497.94,0,Prorated Microsoft Azure,USD,1,1098.21,Small Quanity,DOMESTIC,1,2024,Mar-36,MS-CRM,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,MS-AZ,LAGOS,00230,8497.94,0,Azure,USD,1,791.73,Small Quanity,DOMESTIC,1,2024,Apr-36,MS-CRM,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,MS-NAV,LAGOS,00230,8497.94,8497.94,Premium License,USD,2,3304,Small Quanity,DOMESTIC,0,2023,May-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Endpoints,NGN,0,0,Small Quanity,DOMESTIC,1,2023,Jun-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Data Points,NGN,0,0,Small Quanity,DOMESTIC,1,2023,Jul-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,70% Advance payment,NGN,1,3538124.24,Small Quanity,DOMESTIC,1,2023,Aug-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,30% upon completion,NGN,1,1516338.96,Small Quanity,DOMESTIC,1,2023,Sep-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Customer instances and Azure instances,NGN,1,2322240,Small Quanity,DOMESTIC,1,2023,Oct-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,"Basic (ARM), Dynamic IP Addresses, Static IP Addresses",NGN,1,190186.8,Small Quanity,DOMESTIC,1,2023,Nov-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Traffic Manager,NGN,1,230808,Small Quanity,DOMESTIC,1,2023,Dec-36,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Premium Block Blob Storage,NGN,1,292785,Small Quanity,DOMESTIC,1,2023,Jan-37,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,0,Tables,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Feb-37,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,0,Pages,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Mar-37,MS-CRM,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,8092182.2,Reports,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Apr-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,Essential User Licenses,USD,3,210,Small Quanity,DOMESTIC,1,2024,May-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,Team Member User Licenses,USD,2,24,Small Quanity,DOMESTIC,1,2024,Jun-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,1064460,Small Quanity,DOMESTIC,1,2023,Jul-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,290700,Small Quanity,DOMESTIC,1,2023,Aug-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,827160,Small Quanity,DOMESTIC,1,2023,Sep-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,1064460,Small Quanity,DOMESTIC,1,2023,Oct-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,Others,LAGOS,00256,4400058,0,Essential User Licenses,NGN,3,357000,Small Quanity,DOMESTIC,0,2024,Nov-37,MS-CRM,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,Others,LAGOS,00256,4400058,4400058,Team Member User Licenses,NGN,2,40800,Small Quanity,DOMESTIC,0,2024,Dec-37,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Group,Maritime and Offshore Services Sector,MS-NAV,LAGOS,00288,7500,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,1,2024,Jan-38,MS-CRM,DOMESTIC,SOFTWARE
+Frigate Group,Maritime and Offshore Services Sector,MS-NAV,LAGOS,00288,7500,7500,ESS Portal,USD,1,2500,Small Quanity,DOMESTIC,1,2024,Feb-38,MS-CRM,DOMESTIC,SOFTWARE
+Nigeria Sovereign Investment Authority,Investment Sector,MS-AX,ABUJA,00168,2647118.88,2647118.88,Balance of Microsoft Azure for Dev. Environment,NGN,1,2647118.88,Small Quanity,DOMESTIC,1,2024,Mar-38,MS-CRM,DOMESTIC,SOFTWARE
+Candel Company Limited,Agriculture and Agribusiness Sector,Others,LAGOS,00066,10000,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,Apr-38,MS-CRM,DOMESTIC,SOFTWARE
+Candel Company Limited,Agriculture and Agribusiness Sector,Others,LAGOS,00066,10000,10000,Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,May-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Annual SSL Certificate,USD,1,145.76,Small Quanity,DOMESTIC,0,2021,Jun-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Transaction Fee,USD,1,25,Small Quanity,DOMESTIC,0,2021,Jul-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Codeunits (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Aug-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central XML Ports (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Sep-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Queries (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Oct-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Enhancement Plan,USD,1,5069,Small Quanity,DOMESTIC,0,2021,Nov-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,CRM Full user ,USD,15,96,Small Quanity,DOMESTIC,0,2021,Dec-38,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,D365 Integration Tool ,USD,1,2500,Small Quanity,DOMESTIC,0,2021,Jan-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,SQL Server License ,USD,1,898,Small Quanity,DOMESTIC,0,2021,Feb-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,SQL Cal License,USD,30,205,Large Quantity,DOMESTIC,0,2021,Mar-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Reports (100),USD,3,480,Small Quanity,DOMESTIC,0,2021,Apr-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Pages (100),USD,3,480,Small Quanity,DOMESTIC,0,2021,May-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Team Members,USD,10,240,Small Quanity,DOMESTIC,0,2021,Jun-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Tables (10),USD,17,480,Small Quanity,DOMESTIC,0,2021,Jul-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Azure Cloud Hosting & Site Recovery,USD,1,9282,Small Quanity,DOMESTIC,0,2021,Aug-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Power BI Pro License ,USD,1,120,Small Quanity,DOMESTIC,0,2021,Sep-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,Oct-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Sales + Customer Service,USD,5,1380,Small Quanity,DOMESTIC,0,2021,Nov-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Premium,USD,10,1680,Small Quanity,DOMESTIC,0,2021,Dec-39,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Dyn365 Business Central Premium,USD,8,1948.8,Small Quanity,DOMESTIC,1,2021,Jan-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Dyn365 Business Central Team Members,USD,8,278.4,Small Quanity,DOMESTIC,1,2021,Feb-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-CRM,LAGOS,00246,221432.16,0,CRM Full user ,USD,2,1380,Small Quanity,DOMESTIC,1,2021,Mar-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-CRM,LAGOS,00246,221432.16,0,CRM Full user ,USD,2,96,Small Quanity,DOMESTIC,1,2021,Apr-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Pages,USD,2,944,Small Quanity,DOMESTIC,0,2024,May-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Reports,USD,1,944,Small Quanity,DOMESTIC,0,2024,Jun-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,XML Ports,USD,1,944,Small Quanity,DOMESTIC,0,2024,Jul-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Queries,USD,1,944,Small Quanity,DOMESTIC,0,2024,Aug-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Code Units,USD,1,944,Small Quanity,DOMESTIC,0,2024,Sep-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Premium License,USD,10,3304,Small Quanity,DOMESTIC,0,2024,Oct-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Team Member User Licenses,USD,3,472,Small Quanity,DOMESTIC,0,2024,Nov-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Tables,USD,10,944,Small Quanity,DOMESTIC,0,2024,Dec-40,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Premium License,USD,10,3304,Small Quanity,DOMESTIC,0,2024,Jan-41,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Team Member User Licenses,USD,5,472,Small Quanity,DOMESTIC,0,2024,Feb-41,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Full Users,USD,23,1948.8,Large Quantity,DOMESTIC,0,2022,Mar-41,MS-CRM,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,221432.16,Team Member User Licenses,USD,6,278.4,Small Quanity,DOMESTIC,0,2022,Apr-41,MS-CRM,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,0,SSIS Integration Toolkit,NGN,0,0,Small Quanity,DOMESTIC,0,2021,May-41,MS-CRM,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,0,SSIS Integration Toolkit,NGN,1,1275000,Small Quanity,DOMESTIC,0,2021,Jun-41,MS-CRM,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,2499510,SSIS Integration Toolkit,NGN,1,1224510,Small Quanity,DOMESTIC,0,2021,Jul-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,HR & Payroll Module,USD,1,3000,Small Quanity,DOMESTIC,0,2021,Aug-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,Annual CSV-APP,USD,1,8331.52,Small Quanity,DOMESTIC,0,2020,Sep-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,AZURE RESERVED AND SECURITY,NGN,1,43606290,Small Quanity,DOMESTIC,1,2024,Oct-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,Limited license,USD,1,472,Small Quanity,DOMESTIC,1,2024,Nov-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,USD,4,708000,Small Quanity,DOMESTIC,1,2024,Dec-41,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,Annual SSL Certificate,USD,1,38.45,Small Quanity,DOMESTIC,1,2023,Jan-42,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,NGN,3,764640,Small Quanity,DOMESTIC,0,2024,Feb-42,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,Premium License,NGN,1,5088160,Small Quanity,DOMESTIC,0,2024,Mar-42,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,NAV License ,NGN,1,406864,Small Quanity,DOMESTIC,0,2024,Apr-42,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,NGN,5,731600,Small Quanity,DOMESTIC,0,2024,May-42,MS-CRM,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,GENERAL,LAGOS,00095,57897202.85,57897202.85,Annual SSL Certificate,USD,1,126.88,Small Quanity,DOMESTIC,0,2022,Jun-42,MS-CRM,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,User License,USD,1,10896,Small Quanity,DOMESTIC,0,2021,Jul-42,MS-CRM,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,"B2ms, Windows and OS",NGN,0,0,Small Quanity,DOMESTIC,0,2020,Aug-42,MS-CRM,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,Premium License,USD,5,1982.4,Small Quanity,DOMESTIC,1,2023,Sep-42,MS-CRM,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,22224,Team Member User Licenses,USD,5,283.2,Small Quanity,DOMESTIC,1,2023,Oct-42,MS-CRM,DOMESTIC,SOFTWARE
+Smackers Limited,Food and Beverage Sector,MS-AZ,LAGOS,00227,9260.28,9260.28,Azure,USD,1,9260.28,Small Quanity,DOMESTIC,0,2021,Nov-42,MS-CRM,DOMESTIC,SOFTWARE
+Starsight Energy,Renewable Energy Sector,MS-AZ,LAGOS,00153,59412.07,0,Azure - Dev. Environment,USD,1,852.07,Small Quanity,DOMESTIC,0,2021,Dec-42,MS-CRM,DOMESTIC,SOFTWARE
+Starsight Energy,Renewable Energy Sector,MS-AX,LAGOS,00153,59412.07,0,2nd Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Jan-43,MS-CRM,DOMESTIC,SOFTWARE
+Starsight Energy,Renewable Energy Sector,MS-AX,LAGOS,00153,59412.07,0,3rd Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Feb-43,MS-CRM,DOMESTIC,SOFTWARE
+Starsight Energy,Renewable Energy Sector,MS-AX,LAGOS,00153,59412.07,0,4th Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Mar-43,MS-CRM,DOMESTIC,SOFTWARE
+Starsight Energy,Renewable Energy Sector,MS-AX,LAGOS,00153,59412.07,59412.07,1st Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Apr-43,MS-CRM,DOMESTIC,SOFTWARE
+Northern Cable Processing & Manufacturing Co.Ltd,Manufacturing and Electrical Engineering Sector,Others,KADUNA,00016,400000,400000,Software token ,NGN,1,400000,Small Quanity,DOMESTIC,0,2021,May-43,MS-CRM,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Object Licenses,USD,1,1114,Small Quanity,FOREIGN,0,2021,Jun-43,MS-CRM,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,Others,ACCRA,00033,65147,0,User License,USD,1,62362,Small Quanity,FOREIGN,0,2020,Jul-43,MS-CRM,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Forms,USD,1,557,Small Quanity,FOREIGN,0,2022,Aug-43,MS-CRM,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Reports,USD,1,557,Small Quanity,FOREIGN,0,2022,Sep-43,MS-CRM,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,65147,Tables,USD,1,557,Small Quanity,FOREIGN,0,2022,Oct-43,MS-CRM,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,0,Object Licenses,USD,1,1670,Small Quanity,DOMESTIC,0,2020,Nov-43,MS-CRM,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,0,Tables,USD,1,557,Small Quanity,DOMESTIC,0,2018,Dec-43,MS-CRM,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,2737.4,Tables,USD,1,510.4,Small Quanity,DOMESTIC,0,2016,Jan-44,MS-CRM,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,MS-NAV,ACCRA,00150,273770.07,0,Microsoft Dynamics NAV License,USD,1,9832.35,Small Quanity,DOMESTIC,0,2021,Feb-44,MS-CRM,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,MS-NAV,ACCRA,00150,273770.07,0,User License,USD,1,21972,Small Quanity,DOMESTIC,0,2022,Mar-44,MS-CRM,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,0,Microsoft Security,USD,1,18004.2,Small Quanity,DOMESTIC,0,2024,Apr-44,MS-CRM,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,0,Azure,USD,1,97864.68,Small Quanity,DOMESTIC,0,2024,May-44,MS-CRM,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,273770.07,Azure,USD,1,126096.84,Small Quanity,DOMESTIC,0,2024,Jun-44,MS-CRM,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,0,AfyA Care- HoldCo,USD,1,15869,Small Quanity,DOMESTIC,0,2021,Jul-44,MS-CRM,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,0,Bastion Health Limited,USD,1,9187,Small Quanity,DOMESTIC,0,2021,Aug-44,MS-CRM,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,50669,Rjolad,USD,1,25613,Small Quanity,DOMESTIC,0,2021,Sep-44,MS-CRM,DOMESTIC,SOFTWARE
+National Tuberculosis & Leprosy Control Programme,Public Health and Disease Control Sector,Others,ABUJA,00119,25294.24,0,Azure,USD,1,13033.02,Small Quanity,DOMESTIC,0,2020,Oct-44,MS-CRM,DOMESTIC,SOFTWARE
+National Tuberculosis & Leprosy Control Programme,Public Health and Disease Control Sector,Others,ABUJA,00119,25294.24,25294.24,Azure Firewall,USD,1,12261.22,Small Quanity,DOMESTIC,0,2020,Nov-44,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,MS Dynamics 365 CE License,USD,1,16368,Small Quanity,DOMESTIC,0,2020,Dec-44,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Connector,USD,1,2500,Small Quanity,DOMESTIC,0,2020,Jan-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Discount,USD,1,-2196,Small Quanity,DOMESTIC,0,2020,Feb-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00091,71285.26,0,Azure,USD,1,19737.12,Small Quanity,DOMESTIC,1,2024,Mar-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Server Upgrade,USD,1,5464.3,Small Quanity,DOMESTIC,0,2022,Apr-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Server Upgrade,USD,1,7361.84,Small Quanity,DOMESTIC,0,2022,May-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Dynamics 365 Team Members,NGN,15,32,Small Quanity,DOMESTIC,0,2022,Jun-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-OFF,LAGOS,00091,71285.26,0,MS Dynamics 365 BC License,USD,82,60,Large Quantity,DOMESTIC,0,2021,Jul-45,MS-CRM,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-OFF,LAGOS,00091,71285.26,71285.26,MS Dynamics 365 BC License,USD,111,150,Large Quantity,DOMESTIC,0,2021,Aug-45,MS-CRM,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Office 365 Advanced Threat Protection,USD,81,60,Large Quantity,DOMESTIC,0,2020,Sep-45,MS-CRM,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Microsoft Dynamics 365 Unified Operations Plan,NGN,1,653400,Small Quanity,DOMESTIC,0,2019,Oct-45,MS-CRM,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Team Member User Licenses,NGN,7,34848,Small Quanity,DOMESTIC,0,2019,Nov-45,MS-CRM,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,1337310,Dynamics 365 Unified Operations - Activity ,NGN,2,217800,Small Quanity,DOMESTIC,0,2019,Dec-45,MS-CRM,DOMESTIC,SOFTWARE
+Ladol Integrated Logistics,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,2994,2994,SSIS Integration Toolkit,USD,1,2994,Small Quanity,DOMESTIC,0,2020,Jan-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,Office ProPlus Licenses,NGN,20,146931.84,Large Quantity,DOMESTIC,0,2020,Feb-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,Office ProPlus Licenses,NGN,10,261127.68,Small Quanity,DOMESTIC,0,2020,Mar-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,WinSvrSTDCore 2019 SNGL OLP 16Lic NL Cor,USD,2,946.077,Small Quanity,DOMESTIC,0,2020,Apr-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,WinSvrCAL 2019 SNGL OLP NL UsrCAL,USD,5,40.81,Small Quanity,DOMESTIC,0,2020,May-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-NAV,LAGOS,00015,7679591.46,0,Windows Server,USD,5,1086.75,Small Quanity,DOMESTIC,0,2023,Jun-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-NAV,LAGOS,00015,7679591.46,0,Windows Server,USD,5,47.15,Small Quanity,DOMESTIC,0,2023,Jul-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,SharePoint,USD,5,60,Small Quanity,DOMESTIC,0,2023,Aug-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,50% Advance Payment,NGN,1,1100000,Small Quanity,DOMESTIC,0,2023,Sep-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,30% at UAT,NGN,1,660000,Small Quanity,DOMESTIC,0,2023,Oct-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,20% at Go-Live,NGN,1,440000,Small Quanity,DOMESTIC,0,2023,Nov-46,MS-CRM,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-OFF,LAGOS,00015,7679591.46,7679591.46,Microsoft 365 Business License,USD,3,240120,Small Quanity,DOMESTIC,0,2023,Dec-46,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,Business Basic,USD,100,86.4,Large Quantity,DOMESTIC,0,2020,Jan-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,Business standard,USD,20,180,Large Quantity,DOMESTIC,0,2020,Feb-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,MS DYN 365 LIC,USD,1,31889.29,Small Quanity,DOMESTIC,1,2024,Mar-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,Exchange Online ,USD,0,0,Small Quanity,DOMESTIC,0,2023,Apr-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,Microsoft 365 Business License,USD,0,0,Small Quanity,DOMESTIC,0,2023,May-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,MS Dynamics 365 BC License,USD,100,72,Large Quantity,DOMESTIC,0,2023,Jun-47,MS-CRM,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,54329.29,MS Dynamics 365 BC License,USD,20,150,Large Quantity,DOMESTIC,0,2023,Jul-47,MS-CRM,DOMESTIC,SOFTWARE
+ARM Life Plc,Insurance and Financial Services Sector,Others,LAGOS,00165,8746.8,0,Finance License,USD,10,666.68,Small Quanity,DOMESTIC,0,2020,Aug-47,MS-CRM,DOMESTIC,SOFTWARE
+ARM Life Plc,Insurance and Financial Services Sector,Others,LAGOS,00165,8746.8,8746.8,Team Member User Licenses,USD,65,32,Large Quantity,DOMESTIC,0,2020,Sep-47,MS-CRM,DOMESTIC,SOFTWARE
+IBOM AIR,Aviation and Transportation Sector,Others,AKWA IBOM,00192,15170316.15,0,Azure ,NGN,1,2773091.15,Small Quanity,DOMESTIC,0,2019,Oct-47,MS-CRM,DOMESTIC,SOFTWARE
+IBOM AIR,Aviation and Transportation Sector,Others,AKWA IBOM,00192,15170316.15,15170316.15,MS Business Central Licenses,NGN,1,12397225,Small Quanity,DOMESTIC,0,2019,Nov-47,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SQL Server License ,NGN,1,780000,Small Quanity,DOMESTIC,0,2019,Dec-47,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SQL Cal License,NGN,50,18700,Large Quantity,DOMESTIC,0,2019,Jan-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Active Directory,NGN,20,52560,Large Quantity,DOMESTIC,1,2022,Feb-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Service Bus Components,NGN,1,13048589.4,Small Quanity,DOMESTIC,1,2022,Mar-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,AD Audit Plus,NGN,1,3075490,Small Quanity,DOMESTIC,1,2022,Apr-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SSL Certificate for Active Directory,NGN,3,77380,Small Quanity,DOMESTIC,1,2022,May-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,MS Dynamics 365 BC License,USD,195,950400,Large Quantity,DOMESTIC,0,2023,Jun-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Power BI Premium License,USD,15,864000,Small Quanity,DOMESTIC,0,2023,Jul-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Microsoft Exchange,USD,2,172800,Small Quanity,DOMESTIC,0,2023,Aug-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,MS-OFF,ABUJA,00115,243887010.2,0,Sophos XG 430 XTREAM,NGN,3,16203362.4,Small Quanity,DOMESTIC,0,2023,Sep-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,MS-OFF,ABUJA,00115,243887010.2,0,Email Protection,NGN,3,2430699.26,Small Quanity,DOMESTIC,0,2023,Oct-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Active Directory,USD,20,72,Large Quantity,DOMESTIC,0,2022,Nov-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,AD Audit Plus,USD,1,4213,Small Quanity,DOMESTIC,0,2022,Dec-48,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SSL Certificate for Active Directory,USD,3,106,Small Quanity,DOMESTIC,0,2022,Jan-49,MS-CRM,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,243887010.2,Azure Service Bus Components,USD,1,17874.78,Small Quanity,DOMESTIC,0,2022,Feb-49,MS-CRM,DOMESTIC,SOFTWARE
+Literamed Publications,Media and Entertainment Sector,Others,LAGOS,00081,2349.44,2349.44,Business Enhancement Plan,USD,1,2349.44,Small Quanity,DOMESTIC,0,2019,Mar-49,MS-CRM,DOMESTIC,SOFTWARE
+HAYAT KIMYAT NIG. LTD,"Consumer Goods, Manufacturing, and Distribution Sector",MS-NAV,LAGOS,00110,648911.6,648911.6,MS Dynamics NAV License Enhancement,NGN,1,648911.6,Small Quanity,DOMESTIC,0,2020,Apr-49,MS-CRM,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,Customer Engagement (Annually),USD,5,1380,Small Quanity,DOMESTIC,0,2019,May-49,MS-CRM,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,ESS Portal,NGN,1,1500000,Small Quanity,DOMESTIC,0,2019,Jun-49,MS-CRM,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,Business Central,USD,1,35635,Small Quanity,DOMESTIC,0,2019,Jul-49,MS-CRM,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,1548488.13,Azure,USD,1,5953.13,Small Quanity,DOMESTIC,0,2019,Aug-49,MS-CRM,DOMESTIC,SOFTWARE
+KAM Industries Limited,Manufacturing and Industrial Sector,MS-NAV,KWARA STATE,00154,4850.56,0,Object Licenses,USD,1,3898,Small Quanity,DOMESTIC,0,2019,Sep-49,MS-CRM,DOMESTIC,SOFTWARE
+KAM Industries Limited,Manufacturing and Industrial Sector,Others,KWARA STATE,00154,4850.56,4850.56,SQL Server License ,USD,1,952.56,Small Quanity,DOMESTIC,0,2018,Oct-49,MS-CRM,DOMESTIC,SOFTWARE
+Orange Drugs Limited,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00185,1754620.8,0,User License,NGN,1,1016160,Small Quanity,DOMESTIC,0,2019,Nov-49,MS-CRM,DOMESTIC,SOFTWARE
+Orange Drugs Limited,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00185,1754620.8,1754620.8,SQL Cal License,NGN,1,738460.8,Small Quanity,DOMESTIC,0,2019,Dec-49,MS-CRM,DOMESTIC,SOFTWARE
+Continental Broadcasting Service Limited,Media and Entertainment Sector,Others,LAGOS,00126,81602.4,81602.4,Office ProPlus Licenses,USD,150,544.016,Large Quantity,DOMESTIC,0,2020,Jan-50,MS-CRM,DOMESTIC,SOFTWARE
+EAST CANTONMENTS PHARMACY LIMITED,Pharmaceuticals and Healthcare Sector,Others,ACCRA,00150,13584,13584,Microsoft Dynamics NAV License,USD,1,13584,Small Quanity,DOMESTIC,0,2019,Feb-50,MS-CRM,DOMESTIC,SOFTWARE
+SIFAX Group,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,16800,16800,Microsoft 365 Business License,USD,70,240,Large Quantity,DOMESTIC,0,2019,Mar-50,MS-CRM,DOMESTIC,SOFTWARE
+FilmoRealty Limited ,Construction and Infrastructure Development Sector,Others,LAGOS,00133,1138800,0,Licenses,NGN,32,21900,Large Quantity,DOMESTIC,0,2019,Apr-50,MS-CRM,DOMESTIC,SOFTWARE
+FilmoRealty Limited ,Construction and Infrastructure Development Sector,Others,LAGOS,00133,1138800,1138800,Licenses,NGN,8,54750,Small Quanity,DOMESTIC,0,2019,May-50,MS-CRM,DOMESTIC,SOFTWARE
+Vatebra Limited,Information Technology and Software Development Sector,Others,LAGOS,00100,2400,2400,Social Enagagement License,USD,2,1200,Small Quanity,DOMESTIC,0,2018,Jun-50,MS-CRM,DOMESTIC,SOFTWARE
+Intels Nigeria Limited,"Logistics, Maritime and Oil and Gas Sector",Others,RIVERS,00068,4560,4560,SharePoint,USD,40,114,Large Quantity,DOMESTIC,0,2018,Jul-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Enterprise User CAL,USD,1,4000,Small Quanity,DOMESTIC,0,2018,Aug-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Functional User CAL,USD,1,1600,Small Quanity,DOMESTIC,0,2018,Sep-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Self Serve User CAL,USD,1,120,Small Quanity,DOMESTIC,0,2018,Oct-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Task User CAL,USD,1,400,Small Quanity,DOMESTIC,0,2018,Nov-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Microsft Business,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Dec-50,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Microsoft 365 Business License,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Jan-51,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Microsoft 365 Business License,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Feb-51,MS-CRM,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,33233130,Microsft Business,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Mar-51,MS-CRM,DOMESTIC,SOFTWARE
+Technology Distribution Company Limited,Information Technology and Telecommunications Sector,MS-AX,LAGOS,00096,77880.6,0,Dynamics 365 Ent Edition Plan,USD,10,2311.5,Small Quanity,DOMESTIC,0,2017,Apr-51,MS-CRM,DOMESTIC,SOFTWARE
+Technology Distribution Company Limited,Information Technology and Telecommunications Sector,MS-AX,LAGOS,00096,77880.6,77880.6,MS Dynamics 365 BC License,USD,1,54765.6,Small Quanity,DOMESTIC,0,2016,May-51,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,ACCRA,00130,12666960,0,Office 365 Business,NGN,150,52560,Large Quantity,DOMESTIC,0,2018,Jun-51,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,12666960,0,Office 365 Business,NGN,220,20367,Large Quantity,DOMESTIC,0,2018,Jul-51,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,12666960,12666960,Office 365 Enterprise E5,NGN,2,151110,Small Quanity,DOMESTIC,0,2018,Aug-51,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Code Units,USD,1,480,Small Quanity,DOMESTIC,0,2017,Sep-51,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,SQL Server License ,USD,10,76,Small Quanity,DOMESTIC,0,2017,Oct-51,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,MS-NAV,RIVERS,00041,6286,0,Pages,USD,0,3336,Small Quanity,DOMESTIC,0,2017,Nov-51,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,SQL Server License ,USD,1,6,Small Quanity,DOMESTIC,0,2017,Dec-51,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Limited Concurrent CAL ,USD,10,360,Small Quanity,DOMESTIC,0,2017,Jan-52,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Tables,USD,1,480,Small Quanity,DOMESTIC,0,2017,Feb-52,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Reports,USD,1,480,Small Quanity,DOMESTIC,0,2017,Mar-52,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Pages,USD,1,480,Small Quanity,DOMESTIC,0,2017,Apr-52,MS-CRM,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,MS-NAV,RIVERS,00041,6286,6286,Pages,USD,0,20850,Small Quanity,DOMESTIC,0,2017,May-52,MS-CRM,DOMESTIC,SOFTWARE
+MOUKA LIMITED,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,480,480,Tables,USD,1,480,Small Quanity,DOMESTIC,0,2017,Jun-52,MS-CRM,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Food and Agriculture Sector,Others,LAGOS,00001,18767,0,Full Concurrent CAL ,USD,10,1800,Small Quanity,DOMESTIC,0,2017,Jul-52,MS-CRM,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Food and Agriculture Sector,Others,LAGOS,00001,18767,0,SQL Server License ,USD,10,76,Small Quanity,DOMESTIC,0,2017,Aug-52,MS-CRM,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Food and Agriculture Sector,Others,LAGOS,00001,18767,18767,SQL Server License ,USD,1,7,Small Quanity,DOMESTIC,0,2017,Sep-52,MS-CRM,DOMESTIC,SOFTWARE
+Lababidi Holdings Limited,Investment Sector,MS-AX,LAGOS,00039,12661.6,12661.6,MS Dynamics 365 BC License,USD,1,12661.6,Small Quanity,DOMESTIC,0,2016,Oct-52,MS-CRM,DOMESTIC,SOFTWARE
+Fan Milk Plc,Food and Beverage Sector,Others,IBADAN,00023,2666220,0,Limited Concurrent CAL ,NGN,20,133200,Large Quantity,DOMESTIC,0,2017,Nov-52,MS-CRM,DOMESTIC,SOFTWARE
+Fan Milk Plc,Food and Beverage Sector,Others,IBADAN,00023,2666220,2666220,SQL Server License ,NGN,1,2220,Small Quanity,DOMESTIC,0,2017,Dec-52,MS-CRM,DOMESTIC,SOFTWARE
+IHS Nigeria Plc,Telecommunications Infrastructure Sector,Others,LAGOS,00079,5506660,5506660,MS Dynamics 365 BC License,NGN,1,5506660,Small Quanity,DOMESTIC,0,2015,Jan-53,MS-CRM,DOMESTIC,SOFTWARE
+Murphy Shipping & Commercial Services Limited,Logistics and Maritime Services Sector,Others,LAGOS,00043,1000000,1000000,50% of software implementation fee in advance,NGN,1,1000000,Small Quanity,DOMESTIC,0,2015,Feb-53,MS-CRM,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,0,CONCURRENT USER CAL,NGN,5,360,Small Quanity,DOMESTIC,0,2015,Mar-53,MS-CRM,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,0,CONCURRENT USER CAL,USD,10,1440,Small Quanity,DOMESTIC,0,2015,Apr-53,MS-CRM,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,18792,BUSINESS READY ENHANCEMENT PLAN,USD,1,2592,Small Quanity,DOMESTIC,0,2015,May-53,MS-CRM,DOMESTIC,SOFTWARE
+Abiola Adewale,Retail & Commerce Sector,Others,LAGOS,null,13185,13185,THE MICROSOFT DYNAMICS NAV PERPETUAL ,USD,1,13185,Small Quanity,DOMESTIC,0,2014,Jun-53,MS-CRM,DOMESTIC,SOFTWARE
+Shoreline Power Company Limited,Energy Sector,Others,LAGOS,00010,26873,26873,THE MICROSOFT DYNAMICS NAV PERPETUAL ,USD,1,26873,Small Quanity,DOMESTIC,0,2014,Jul-53,MS-CRM,DOMESTIC,SOFTWARE
+Goldlink Insurance Plc,Insurance Sector,Others,LAGOS,00092,17010,17010,THE MICROSOFT DYNAMICS CRM 2013 LICENSE,USD,1,17010,Small Quanity,DOMESTIC,0,2014,Aug-53,MS-CRM,DOMESTIC,SOFTWARE
+WECO Systems International Ltd,Information Technology and Telecommunications Sector,MS-NAV,LAGOS,00024,41890.8,0,Business Enhancement Plan,USD,1,9175.2,Small Quanity,DOMESTIC,0,2014,Sep-53,MS-CRM,DOMESTIC,SOFTWARE
+WECO Systems International Ltd,Information Technology and Telecommunications Sector,MS-NAV,LAGOS,00024,41890.8,41890.8,Lapsed Period,USD,1096,29.85,Large Quantity,DOMESTIC,0,2014,Oct-53,MS-CRM,DOMESTIC,SOFTWARE
+TKJ International Limited,Construction and Engineering Sector,Others,LAGOS,00093,11020,11020,THE MICROSOFT DYNAMICS AX 2012 R3 LICENSE,USD,1,11020,Small Quanity,DOMESTIC,0,2014,Nov-53,MS-CRM,DOMESTIC,SOFTWARE
+DANGOTE PEUGEOT AUTOMOBILE NIGERIA,Automotive Manufacturing Sector,Others,KADUNA,00237,10000,10000,Payroll Module,USD,1,10000,Small Quanity,DOMESTIC,1,2024,Dec-53,MS-CRM,DOMESTIC,SOFTWARE
+IHS Holding Limited,Telecommunications Infrastructure Sector,Others,LAGOS,00079,0,0,Licenses,NGN,1,0,Small Quanity,DOMESTIC,0,2014,Jan-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Feb-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Mar-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Apr-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Decemeber 2024,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,May-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Balance,USD,1,10133.76,Small Quanity,DOMESTIC,1,2023,Jun-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Jul-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Aug-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Sep-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Oct-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0,Balance,USD,1,7292.6,Small Quanity,DOMESTIC,0,2023,Nov-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0,Balance,USD,1,10133.76,Small Quanity,DOMESTIC,0,2023,Dec-54,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0,MS DYN 365 FO,USD,1,7165.6,Small Quanity,DOMESTIC,0,2022,Jan-55,MS-CRM,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,452848.92,MS DYN 365 FO,USD,1,27165.6,Small Quanity,DOMESTIC,0,2022,Feb-55,MS-CRM,DOMESTIC,SOFTWARE
+National Agency for Control of Aids,Healthcare and Public Health Sector,Others,ABUJA,00252,19.99,19.99,Business Central SSL Certificate,USD,1,19.99,Small Quanity,DOMESTIC,1,2024,Mar-55,MS-CRM,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,MS-AX,ABUJA,00242,5669440,0,Supply Chain Attach License ,NGN,5,424800,Small Quanity,DOMESTIC,1,2022,Apr-55,MS-CRM,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,MS-AX,ABUJA,00242,5669440,0,Azure - Dev. Environment,NGN,1,3540000,Small Quanity,DOMESTIC,1,2022,May-55,MS-CRM,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,Others,ABUJA,00242,5669440,0,Azure - Dev. Environment,USD,1,3340,Small Quanity,DOMESTIC,0,2022,Jun-55,MS-CRM,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,Others,ABUJA,00242,5669440,5669440,Supply Chain Attach License ,USD,10,210,Small Quanity,DOMESTIC,0,2022,Jul-55,MS-CRM,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Licenses,USD,1,92591.04,Small Quanity,DOMESTIC,1,2024,Aug-55,MS-CRM,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Microsoft Dynamics 365 Finance ,USD,20,2160,Large Quantity,DOMESTIC,1,2024,Sep-55,MS-CRM,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Microsoft Dynamics 365 Supplychain,USD,20,2160,Large Quantity,DOMESTIC,1,2024,Oct-55,MS-CRM,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,168940.02,Dev. Environment,USD,2,1022.49,Small Quanity,DOMESTIC,0,2024,Nov-55,MS-CRM,DOMESTIC,SOFTWARE
+CAL BANK PLC,Financial Services Sector,Others,ACCRA,00223,50300,0,Sales Full User,USD,5,1140,Small Quanity,FOREIGN,1,2023,Dec-55,MS-CRM,DOMESTIC,SOFTWARE
+CAL BANK PLC,Financial Services Sector,Others,ACCRA,00223,50300,0,Team Member User Licenses,USD,800,32,Large Quantity,FOREIGN,1,2023,Jan-56,MS-CRM,DOMESTIC,SOFTWARE
+CAL BANK PLC,Financial Services Sector,Others,ACCRA,00223,50300,50300,Dynamics 365 Sales Enterprise,USD,200,95,Large Quantity,FOREIGN,0,2023,Feb-56,MS-CRM,DOMESTIC,SOFTWARE
+ENERGY SHIELD PETROCHEMICAL LIMITED,Petrochemical Sector,Others,LAGOS,00261,4000,4000,Azure Cloud Hosting,USD,1,4000,Small Quanity,DOMESTIC,1,2023,Mar-56,MS-CRM,DOMESTIC,SOFTWARE
+Access Pension Fund Custodian Limited,Financial Services Sector,Others,LAGOS,00209,408000,408000,Power BI Pro License ,NGN,5,81600,Small Quanity,DOMESTIC,1,2022,Apr-56,MS-CRM,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,MS-NAV,OTTAWA,00201,1283436.16,0,D365 BC,USD,1,1228.8,Small Quanity,FOREIGN,1,2022,May-56,MS-CRM,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,MS-NAV,OTTAWA,00201,1283436.16,0,D365 CE - Sales License,USD,1,1167.36,Small Quanity,FOREIGN,1,2022,Jun-56,MS-CRM,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,Others,OTTAWA,00201,1283436.16,1283436.16,Microsoft 365 Business License,NGN,1,1281040,Small Quanity,FOREIGN,0,2023,Jul-56,MS-CRM,DOMESTIC,SOFTWARE
+Lotus Capital Halal Investments,Financial Services Sector,MS-NAV,LAGOS,00235,5700,0,Microsoft Customer Engagement Sales License,USD,2,1140,Small Quanity,DOMESTIC,1,2022,Aug-56,MS-CRM,DOMESTIC,SOFTWARE
+Lotus Capital Halal Investments,Financial Services Sector,MS-NAV,LAGOS,00235,5700,5700,Microsoft Customer Engagement Customer Service License,USD,3,1140,Small Quanity,DOMESTIC,1,2022,Sep-56,MS-CRM,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,0,Azure,USD,1,9679.68,Small Quanity,DOMESTIC,1,2021,Oct-56,MS-CRM,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,0,Business Basic,USD,1,30,Small Quanity,DOMESTIC,1,2021,Nov-56,MS-CRM,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,10189.68,Microsoft 365 Business License,USD,1,480,Small Quanity,DOMESTIC,1,2021,Dec-56,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",MS-NAV,LAGOS,00177,2313641.2,0,BC Essential License,USD,1,2360,Small Quanity,DOMESTIC,0,2024,Jan-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Team Member User Licenses,USD,1,472,Small Quanity,DOMESTIC,0,2024,Feb-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Essential User Licenses,USD,1,2360,Small Quanity,DOMESTIC,0,2024,Mar-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,SQL Server License ,NGN,1,516350,Small Quanity,DOMESTIC,0,2022,Apr-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Windows Server,NGN,3,596160,Small Quanity,DOMESTIC,0,2022,May-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Full Users,USD,2,1392,Small Quanity,DOMESTIC,0,2022,Jun-57,MS-CRM,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,2313641.2,Limited User,USD,3,278.4,Small Quanity,DOMESTIC,0,2022,Jul-57,MS-CRM,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,0,"B2ms, Windows and OS",USD,1,14307.48,Small Quanity,DOMESTIC,0,2024,Aug-57,MS-CRM,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,0,Web Application Firewall,USD,1,9333.214,Small Quanity,DOMESTIC,0,2024,Sep-57,MS-CRM,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,33725.49,"B2ms, Windows and OS",USD,1,10084.8,Small Quanity,DOMESTIC,0,2024,Oct-57,MS-CRM,DOMESTIC,SOFTWARE
+DAJO OILFIELD & LOGISTICS,Oil and Gas Sector,MS-OFF,LAGOS,00316,3048,0,Business Standard,USD,8,150,Small Quanity,DOMESTIC,0,2024,Nov-57,MS-CRM,DOMESTIC,SOFTWARE
+DAJO OILFIELD & LOGISTICS,Oil and Gas Sector,MS-OFF,LAGOS,00316,3048,3048,Business Premium,USD,7,264,Small Quanity,DOMESTIC,0,2024,Dec-57,MS-CRM,DOMESTIC,SOFTWARE
+BUA,Industrial Sector,MS-NAV,LAGOS,00317,10572800,10572800,MS Dynamics 365 BC License,NGN,2,5286400,Small Quanity,DOMESTIC,0,2024,Jan-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-NAV,LAGOS,00152,27628.98,0,Essential User Licenses,USD,5,2360,Small Quanity,DOMESTIC,0,2024,Feb-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Microsoft 365 Business License,USD,2,276,Small Quanity,DOMESTIC,0,2024,Mar-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Microsoft 365 Business License,USD,8,48,Small Quanity,DOMESTIC,0,2024,Apr-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Domain Cost,USD,1,13.98,Small Quanity,DOMESTIC,0,2024,May-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-SQL,LAGOS,00152,27628.98,0,SQL Server License ,USD,1,989,Small Quanity,DOMESTIC,0,2024,Jun-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-SQL,LAGOS,00152,27628.98,0,Windows Server,USD,18,205,Small Quanity,DOMESTIC,0,2024,Jul-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Microsoft 365 Business License,USD,100,72,Large Quantity,DOMESTIC,0,2023,Aug-58,MS-CRM,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,27628.98,Microsoft 365 Business License,USD,20,150,Large Quantity,DOMESTIC,0,2023,Sep-58,MS-CRM,DOMESTIC,SOFTWARE
+MAFA RICE MILL LIMITED,Agriculture and Food Processing Sector,MS-NAV,KANO,00304,2876,0,Time and Attendance Machine,USD,2,438,Small Quanity,DOMESTIC,0,2024,Oct-58,MS-CRM,DOMESTIC,SOFTWARE
+MAFA RICE MILL LIMITED,Agriculture and Food Processing Sector,MS-NAV,KANO,00304,2876,2876,T&M ADDON SOLUTION,USD,1,2000,Small Quanity,DOMESTIC,0,2024,Nov-58,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,Others,LAGOS,00298,166464.88,0,BC Essential License,USD,18,903,Small Quanity,DOMESTIC,0,2024,Dec-58,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,Others,LAGOS,00298,166464.88,0,BC Team Members Licenses,USD,75,103.2,Large Quantity,DOMESTIC,0,2024,Jan-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-NAV,LAGOS,00298,166464.88,0,Tables,USD,3,944,Small Quanity,DOMESTIC,0,2024,Feb-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-NAV,LAGOS,00298,166464.88,0,Code Units,USD,1,944,Small Quanity,DOMESTIC,0,2024,Mar-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,LAGOS,00298,166464.88,0,Security,USD,1,19704.168,Small Quanity,DOMESTIC,0,2024,Apr-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,LAGOS,00298,166464.88,0,PAYG Server Migrate ,USD,1,30703.464,Small Quanity,DOMESTIC,0,2024,May-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,LAGOS,00298,166464.88,0,YRSVD Server Migrate,USD,1,39379.296,Small Quanity,DOMESTIC,0,2024,Jun-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,LAGOS,00298,166464.88,0,PAYG Server Migrate,USD,1,21225.168,Small Quanity,DOMESTIC,0,2024,Jul-59,MS-CRM,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,LAGOS,00298,166464.88,166464.88,YRSVD Server Migrate,USD,1,27682.776,Small Quanity,DOMESTIC,0,2024,Aug-59,MS-CRM,DOMESTIC,SOFTWARE
+FEDERAL AIRPORTS AUTHORITY OF NIGERIA (FAAN),Aviation and Transportation Sector,MS-NAV,LAGOS,00021,94400,94400,Essential User Licenses,USD,40,2360,Large Quantity,DOMESTIC,0,2024,Sep-59,MS-CRM,DOMESTIC,SOFTWARE
+Credit Direct Limited,Financial Services Sector,MS-NAV,LAGOS,00062,300,300,DocuSign (Annual Renewal),USD,1,300,Small Quanity,DOMESTIC,0,2024,Oct-59,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-AX,RIVERS,00102,33866.4,0,Time and Attendance Machine,USD,2,115.2,Small Quanity,DOMESTIC,0,2024,Nov-59,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Exchange Online,USD,100,48,Large Quantity,DOMESTIC,0,2024,Dec-59,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Exchange Online,USD,1,96,Small Quanity,DOMESTIC,0,2024,Jan-60,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft 365 App,USD,5,144,Small Quanity,DOMESTIC,0,2024,Feb-60,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft 365 Business License,USD,23,264,Large Quantity,DOMESTIC,0,2024,Mar-60,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft Entra,USD,1,108,Small Quanity,DOMESTIC,0,2024,Apr-60,MS-CRM,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,33866.4,Microsoft 365 Business License,USD,182,120,Large Quantity,DOMESTIC,0,2024,May-60,MS-CRM,DOMESTIC,SOFTWARE
+ACCESS INVESTOR SERVICES NOMINEE,Financial Services Sector,MS-NAV,LAGOS,00249,4720,4720,BC Essential License,USD,2,2360,Small Quanity,DOMESTIC,0,2024,Jun-60,MS-CRM,DOMESTIC,SOFTWARE
+SIFAX Nigeria Limited,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,17456,0,Windows Server,USD,1,936,Small Quanity,DOMESTIC,0,2024,Jul-60,MS-CRM,DOMESTIC,SOFTWARE
+SIFAX Nigeria Limited,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,17456,17456,Premium License,USD,5,3304,Small Quanity,DOMESTIC,0,2024,Aug-60,MS-CRM,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,Others,LAGOS,00268,46256,0,Premium License,USD,10,3304,Small Quanity,DOMESTIC,0,2024,Sep-60,MS-CRM,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,Others,LAGOS,00268,46256,0,Team Member User Licenses,USD,20,472,Large Quantity,DOMESTIC,0,2024,Oct-60,MS-CRM,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,MS-NAV,LAGOS,00268,46256,0,Premium License,USD,1,3304,Small Quanity,DOMESTIC,0,2024,Nov-60,MS-CRM,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,MS-NAV,LAGOS,00268,46256,46256,User License,USD,1,472,Small Quanity,DOMESTIC,0,2024,Dec-60,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,MS-OFF,LAGOS,00142,3663040.86,0,Microsoft 365 Business License,NGN,10,115200,Small Quanity,DOMESTIC,0,2024,Jan-61,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,Others,LAGOS,00142,3663040.86,0,Microsoft 365 Business License,USD,1,276,Small Quanity,DOMESTIC,0,2024,Feb-61,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,MS-OFF,LAGOS,00142,3663040.86,0,Microsoft 365 Business License,NGN,1,2501530,Small Quanity,DOMESTIC,0,2024,Mar-61,MS-CRM,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,Others,LAGOS,00142,3663040.86,3663040.86,Azure Cloud Hosting & Site Recovery,USD,1,9234.86,Small Quanity,DOMESTIC,0,2021,Apr-61,MS-CRM,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Healthcare and Pharmaceutical Sector,MS-AX,LAGOS,00267,717709,0,Annual Database Dataverse Capacity Add-on ,USD,10,480,Small Quanity,DOMESTIC,0,2024,May-61,MS-CRM,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Healthcare and Pharmaceutical Sector,Others,LAGOS,00267,717709,0,Additional Sales(Full) ,USD,5,142505,Small Quanity,DOMESTIC,0,2023,Jun-61,MS-CRM,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Healthcare and Pharmaceutical Sector,MS-CRM,LAGOS,00267,717709,0,Customer Service (team members),USD,2,96,Small Quanity,DOMESTIC,0,2023,Jul-61,MS-CRM,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Healthcare and Pharmaceutical Sector,MS-CRM,LAGOS,00267,717709,717709,Field Service,USD,2,96,Small Quanity,DOMESTIC,0,2023,Aug-61,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,20,2360,Large Quantity,DOMESTIC,0,2024,Sep-61,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,5,472,Small Quanity,DOMESTIC,0,2024,Oct-61,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Microsoft 365 Business License,NGN,170,87000,Large Quantity,DOMESTIC,0,2022,Nov-61,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Office 365,NGN,1,160080,Small Quanity,DOMESTIC,0,2022,Dec-61,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Office 365,NGN,2,264480,Small Quanity,DOMESTIC,0,2022,Jan-62,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Exchange Online ,NGN,13,27840,Small Quanity,DOMESTIC,0,2022,Feb-62,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,10,2360,Small Quanity,DOMESTIC,0,2022,Mar-62,MS-CRM,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,25851608,Microsoft 365 Business License,NGN,270,41760,Large Quantity,DOMESTIC,0,2022,Apr-62,MS-CRM,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,Others,LAGOS,00295,195000,0,Microsoft 365 Business License,USD,100,150,Large Quantity,DOMESTIC,0,2024,May-62,MS-CRM,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,Others,LAGOS,00295,195000,0,Microsoft 365 Business License,USD,1500,72,Large Quantity,DOMESTIC,0,2024,Jun-62,MS-CRM,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,MS-OFF,LAGOS,00295,195000,195000,Exchange Online ,USD,1500,48,Large Quantity,DOMESTIC,0,2024,Jul-62,MS-CRM,DOMESTIC,SOFTWARE
+Meristem Securities Limited,Financial Services Sector,Others,LAGOS,00088,11034,11034,Full Users,USD,5,2206.8,Small Quanity,DOMESTIC,0,2023,Aug-62,MS-CRM,DOMESTIC,SOFTWARE
+Olive Micro Finance Bank,Financial Services Sector,MS-AZ,LAGOS,00294,28307448,28307448,Azure,NGN,1,28307448,Small Quanity,DOMESTIC,0,2024,Sep-62,MS-CRM,DOMESTIC,SOFTWARE
+Kam Industries Limited,Manufacturing and Construction Sector,MS-NAV,KWARA STATE,00154,944,944,Cost of 50 pages,USD,1,944,Small Quanity,DOMESTIC,0,2023,Oct-62,MS-CRM,DOMESTIC,SOFTWARE
+Brass LNG Limited,Energy Sector,MS-AX,LAGOS,00032,5274,0,D365 BC,USD,8,420,Small Quanity,DOMESTIC,0,2024,Nov-62,MS-CRM,DOMESTIC,SOFTWARE
+Brass LNG Limited,Energy Sector,MS-AX,LAGOS,00032,5274,5274,Procurement  Module,USD,1,1914,Small Quanity,DOMESTIC,0,2024,Dec-62,MS-CRM,DOMESTIC,SOFTWARE
+The Institute of Chartered Accountants of Nigeria,Professional Services and Education Sector,Others,LAGOS,00105,8466.72,0,Windows Server,USD,18,251.04,Small Quanity,DOMESTIC,0,2023,Jan-63,MS-CRM,DOMESTIC,SOFTWARE
+The Institute of Chartered Accountants of Nigeria,Professional Services and Education Sector,Others,LAGOS,00105,8466.72,8466.72,SQL Server License ,USD,4,987,Small Quanity,DOMESTIC,0,2023,Feb-63,MS-CRM,DOMESTIC,SOFTWARE
+CENIT ENERGY LIMITED,Energy Sector,Others,ACCRA,00247,3594,3594,Backup storage for Veeam on-premises in a VM on Hyper-V,USD,12,299.5,Small Quanity,FOREIGN,0,2023,Mar-63,MS-CRM,DOMESTIC,SOFTWARE
+Frigoglass Industries (Nig.) Ltd,Manufacturing and Industrial Sector,Others,LAGOS,00026,50000,50000,Fingerprints ,NGN,1,50000,Small Quanity,DOMESTIC,0,2023,Apr-63,MS-CRM,DOMESTIC,SOFTWARE
+Interswitch Limited,Financial Services Sector,Others,LAGOS,00056,750,750,SSIS Integration Toolkit,USD,1,750,Small Quanity,DOMESTIC,0,2023,May-63,MS-CRM,DOMESTIC,SOFTWARE
+Dala Inland Dry Port,Logistics and Transportation Sector,Others,KANO,00259,1274569.56,1274569.56,Azure Cloud Hosting,NGN,1,1274569.56,Small Quanity,DOMESTIC,0,2023,Jun-63,MS-CRM,DOMESTIC,SOFTWARE
+PRIMLAKS NIGERIA LIMITED,Agriculture and Food Processing Sector,Others,LAGOS,00248,261,261,DV SSL Certificate,USD,1,261,Small Quanity,DOMESTIC,0,2022,Jul-63,MS-CRM,DOMESTIC,SOFTWARE
+ECM Terminals Limited,Logistics and Transportation Sector,Others,LAGOS,00014,29665,0,Microsoft 365 Business License,USD,50,443.3,Large Quantity,DOMESTIC,0,2022,Aug-63,MS-CRM,DOMESTIC,SOFTWARE
+ECM Terminals Limited,Logistics and Transportation Sector,Others,LAGOS,00014,29665,29665,Microsoft 365 Business License,USD,50,150,Large Quantity,DOMESTIC,0,2022,Sep-63,MS-CRM,DOMESTIC,SOFTWARE
+Softcom Limited,Technology and Digital Solutions Sector,MS-PBI,LAGOS,00245,2320,2320,Power BI Premium License,USD,10,240,Small Quanity,DOMESTIC,0,2021,Oct-63,MS-CRM,DOMESTIC,SOFTWARE
+Continental Broadcasting Service,Media and Entertainment Sector,Others,LAGOS,00126,5198.6,0,Windows Server,USD,4,1035.1,Small Quanity,DOMESTIC,0,2022,Nov-63,MS-CRM,DOMESTIC,SOFTWARE
+Continental Broadcasting Service,Media and Entertainment Sector,Others,LAGOS,00126,5198.6,0,Windows Server,USD,2,181.5,Small Quanity,DOMESTIC,0,2022,Dec-63,MS-CRM,DOMESTIC,SOFTWARE
+Continental Broadcasting Service,Media and Entertainment Sector,Others,LAGOS,00126,5198.6,5198.6,SQL Server License ,USD,2,347.6,Small Quanity,DOMESTIC,0,2022,Jan-64,MS-CRM,DOMESTIC,SOFTWARE
+EDO INTERNAL REVENUE SERVICE,Government and Public Administration Sector,Others,EDO,00217,13748,13748,SQL Server License ,USD,1,13748,Small Quanity,DOMESTIC,0,2021,Feb-64,MS-CRM,DOMESTIC,SOFTWARE
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00171,26020,0,User License,USD,10,2088,Small Quanity,DOMESTIC,0,2021,Mar-64,MS-NAV,DOMESTIC,SOFTWARE
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00171,26020,0,User License,USD,10,418,Small Quanity,DOMESTIC,0,2021,Apr-64,MS-NAV,DOMESTIC,SOFTWARE
+May & Baker Nigeria Plc.,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00171,26020,26020,Power BI Premium License,USD,4,240,Small Quanity,DOMESTIC,1,2024,May-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,1,0,Small Quanity,DOMESTIC,0,2021,Jun-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Windows Server,USD,1,1036.8,Small Quanity,DOMESTIC,0,2021,Jul-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,WHT Management,USD,1,3500,Small Quanity,DOMESTIC,0,2021,Aug-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,SQL Server License ,USD,1,889,Small Quanity,DOMESTIC,0,2021,Sep-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,5,1320,Small Quanity,DOMESTIC,0,2021,Oct-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,SQL Cal License,USD,5,205,Small Quanity,DOMESTIC,0,2021,Nov-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,4,150,Small Quanity,DOMESTIC,0,2021,Dec-64,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft Project,USD,4,84,Small Quanity,DOMESTIC,0,2021,Jan-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Annual Microsoft 365 Business Standard License,USD,4,60,Small Quanity,DOMESTIC,0,2021,Feb-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Microsoft 365 App,NGN,20,47520,Large Quantity,DOMESTIC,0,2020,Mar-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Essential User Licenses,NGN,5,1200,Small Quanity,DOMESTIC,0,2019,Apr-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Team Member User Licenses,NGN,5,240,Small Quanity,DOMESTIC,0,2019,May-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,20,576.96,Large Quantity,DOMESTIC,0,2019,Jun-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,1,4818,Small Quanity,DOMESTIC,0,2019,Jul-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Licenses,USD,20,114.48,Large Quantity,DOMESTIC,0,2019,Aug-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-OFF,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,15,72,Small Quanity,DOMESTIC,0,2024,Sep-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,MS Dynamics 365 BC License,USD,5,3304,Small Quanity,DOMESTIC,0,2024,Oct-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,NGN,10,343200,Small Quanity,DOMESTIC,0,2024,Nov-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,New Licenses,USD,0,0,Small Quanity,DOMESTIC,0,2023,Dec-65,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-NAV,LAGOS,00076,4501755.4,0,Essential User Licenses,USD,17,840,Small Quanity,DOMESTIC,0,2023,Jan-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,MS-NAV,LAGOS,00076,4501755.4,0,Team Member User Licenses,USD,3,96,Small Quanity,DOMESTIC,0,2023,Feb-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Office 365,USD,20,86.4,Large Quantity,DOMESTIC,0,2023,Mar-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,4,150,Small Quanity,DOMESTIC,0,2023,Apr-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Power BI Pro License,USD,2,120,Small Quanity,DOMESTIC,0,2023,May-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,150,570,Large Quantity,DOMESTIC,0,2023,Jun-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,120,264,Large Quantity,DOMESTIC,0,2022,Jul-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,0,Microsoft 365 Business License,USD,30,96,Large Quantity,DOMESTIC,0,2022,Aug-66,MS-NAV,DOMESTIC,SOFTWARE
+Sundry Customer,Retail & Commerce Sector,Others,LAGOS,00076,4501755.4,4501755.4,Bit Titan License,USD,150,15,Large Quantity,DOMESTIC,0,2022,Sep-66,MS-NAV,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-NAV,LAGOS,00109,41121.1,0,User License,USD,1,2176.16,Small Quanity,DOMESTIC,0,2021,Oct-66,MS-NAV,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-NAV,LAGOS,00109,41121.1,0,User License,USD,1,509.46,Small Quanity,DOMESTIC,0,2021,Nov-66,MS-NAV,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-NAV,LAGOS,00109,41121.1,0,User License,USD,1,22598.4,Small Quanity,DOMESTIC,0,2021,Dec-66,MS-NAV,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-NAV,LAGOS,00109,41121.1,0,Full Users,USD,4,2176.16,Small Quanity,DOMESTIC,0,2022,Jan-67,MS-NAV,DOMESTIC,SOFTWARE
+COSCHARIS MOTORS PLC,Automotive Sector,MS-NAV,LAGOS,00109,41121.1,41121.1,Team Member User Licenses,USD,14,509.46,Small Quanity,DOMESTIC,0,2022,Feb-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,February License Payment,USD,1,24018.14,Small Quanity,DOMESTIC,3,2022,Mar-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,March License Payment,USD,0,24018.14,Small Quanity,DOMESTIC,3,2022,Apr-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,February License Payment,USD,0,24018.14,Small Quanity,DOMESTIC,3,2022,May-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,MS-NAV,LAGOS,00253,96072.56,0,March License Payment,USD,1,24018.14,Small Quanity,DOMESTIC,3,2022,Jun-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,0,Azure Cloud Hosting,USD,1,9760.28,Small Quanity,DOMESTIC,0,2023,Jul-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,0,Microsoft Dynamics 365 BC License,USD,1,34243,Small Quanity,DOMESTIC,0,2023,Aug-67,MS-NAV,DOMESTIC,SOFTWARE
+MARINE PLATFORMS LIMITED ,Oil and Gas Sector,Others,LAGOS,00253,96072.56,96072.56,SQL Server License ,USD,1,4033,Small Quanity,DOMESTIC,0,2023,Sep-67,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,GENERAL,LAGOS,00142,218285.44,0,Office 365,NGN,2,22183.36,Small Quanity,DOMESTIC,3,2018,Oct-67,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,GENERAL,LAGOS,00142,218285.44,0,Office 365,NGN,3,5792,Small Quanity,DOMESTIC,3,2018,Nov-67,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,GENERAL,LAGOS,00142,218285.44,0,Office 365,NGN,2,22183.36,Small Quanity,DOMESTIC,3,2018,Dec-67,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,GENERAL,LAGOS,00142,218285.44,0,Office 365,NGN,3,5792,Small Quanity,DOMESTIC,3,2018,Jan-68,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,Others,LAGOS,00142,218285.44,0,User License,USD,1,32688,Small Quanity,DOMESTIC,0,2020,Feb-68,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum & Gas Co. Ltd,Energy Sector,Others,LAGOS,00142,218285.44,218285.44,User License,USD,1,62112,Small Quanity,DOMESTIC,0,2020,Mar-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,MS-OFF,LAGOS,00028,263128,0,Exchange Online ,NGN,3,48,Small Quanity,DOMESTIC,3,2019,Apr-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Office 365,USD,10,420,Small Quanity,DOMESTIC,2,2018,May-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Office 365,USD,320,240,Large Quantity,DOMESTIC,2,2018,Jun-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Office 365,USD,50,96,Large Quantity,DOMESTIC,2,2018,Jul-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Microsoft Dynamics 365 BC License,USD,4,600,Small Quanity,DOMESTIC,2,2018,Aug-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Azure,USD,1,42000,Small Quanity,DOMESTIC,2,2018,Sep-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,Others,LAGOS,00028,263128,0,Tables,NGN,1,128064,Small Quanity,DOMESTIC,0,2015,Oct-68,MS-NAV,DOMESTIC,SOFTWARE
+Skyway Aviation Handling Company Ltd,Aviation and Transportation Sector,MS-NAV,LAGOS,00028,263128,263128,Additional Team Members Licenses,USD,10,472,Small Quanity,DOMESTIC,0,2024,Nov-68,MS-NAV,DOMESTIC,SOFTWARE
+STARSIGHT LIMITED,Renewable Energy Sector,MS-CRM,LAGOS,00153,380,380,Credit note for erroneous PMT ,USD,1,380,Small Quanity,DOMESTIC,3,2020,Dec-68,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Azure,USD,1,6962.76,Small Quanity,DOMESTIC,3,2021,Jan-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,ERP License,USD,1,278.4,Small Quanity,DOMESTIC,0,2021,Feb-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,SQL Cal License,USD,1,206,Small Quanity,DOMESTIC,0,2021,Mar-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,BC limited user,USD,1,278.4,Small Quanity,DOMESTIC,0,2021,Apr-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Microsoft Dynamics 365 BC License,USD,1,1394.44,Small Quanity,DOMESTIC,0,2020,May-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Azure,USD,1,6962.76,Small Quanity,DOMESTIC,1,2024,Jun-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Test Enivornment,USD,1,4485.93,Small Quanity,DOMESTIC,1,2024,Jul-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AZ,LAGOS,00188,40302.66,0,Storage ,USD,1,92.6,Small Quanity,DOMESTIC,1,2024,Aug-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AX,LAGOS,00188,40302.66,0,Azure,USD,1,5592.48,Small Quanity,DOMESTIC,1,2024,Sep-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,MS-AX,LAGOS,00188,40302.66,0,Azure,USD,1,3270.25,Small Quanity,DOMESTIC,1,2024,Oct-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Cloud Hosting ,NGN,1,9578.64,Small Quanity,DOMESTIC,1,2024,Nov-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,0,Disaster Recovery,NGN,1,1200,Small Quanity,DOMESTIC,1,2024,Dec-69,MS-NAV,DOMESTIC,SOFTWARE
+InfraCredit Guarantee Company Limited.,Financial Services Sector,Others,LAGOS,00188,40302.66,40302.66,New Licenses,NGN,0,0,Small Quanity,DOMESTIC,1,2024,Jan-70,MS-NAV,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,0,Annual Microsoft 365 Business Standard License,USD,2,150,Small Quanity,DOMESTIC,3,2022,Feb-70,MS-NAV,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,0,Annual Microsoft 365 Business Standard License,USD,8,72,Small Quanity,DOMESTIC,3,2022,Mar-70,MS-NAV,DOMESTIC,SOFTWARE
+ENVIRONMENTAL EXPRESSIONS LIMITED,Environmental Services Sector,MS-OFF,ABUJA,00255,720876,720876,Annual Microsoft 365 Business Standard License,NGN,8,90000,Small Quanity,DOMESTIC,0,2022,Apr-70,MS-NAV,DOMESTIC,SOFTWARE
+First Nominees Nigeria Ltd,Financial Services Sector,Others,LAGOS,00315,0,0,Essential User Licenses,NGN,5,0,Small Quanity,DOMESTIC,2,2024,May-70,MS-NAV,DOMESTIC,SOFTWARE
+UBA Pensions Custodian Limited,Financial Services Sector,MS-NAV,LAGOS,00172,62694360,0,MS Dynamics 365 BC License,NGN,1,50440175.35,Small Quanity,DOMESTIC,3,2018,Jun-70,MS-NAV,DOMESTIC,SOFTWARE
+UBA Pensions Custodian Limited,Financial Services Sector,MS-NAV,LAGOS,00172,62694360,62694360,MS Dynamics 365 BC License,NGN,1,12254184.65,Small Quanity,DOMESTIC,3,2018,Jul-70,MS-NAV,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,MS Dynamics 365 BC License,USD,1,49514,Small Quanity,DOMESTIC,2,2017,Aug-70,MS-NAV,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",MS-NAV,LAGOS,00140,132810,0,Additional MS Dynamics NAV Licenses,USD,1,37056,Small Quanity,DOMESTIC,0,2020,Sep-70,MS-NAV,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,Full Concurrent CAL ,USD,20,1800,Large Quantity,DOMESTIC,0,2018,Oct-70,MS-NAV,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,0,Limited Concurrent CAL ,USD,20,360,Large Quantity,DOMESTIC,0,2018,Nov-70,MS-NAV,DOMESTIC,SOFTWARE
+LADOL INTEGRATED LOGISTICS FREE ZONE ENTERPRISE,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,132810,132810,SQL Cal License,USD,40,76,Large Quantity,DOMESTIC,0,2018,Dec-70,MS-NAV,DOMESTIC,SOFTWARE
+Ajinomoto Foods Nigeria Limited,Food and Beverage Sector,MS-NAV,LAGOS,00289,1961.04,0,Team Member User Licenses,USD,3,37,Small Quanity,DOMESTIC,1,2024,Jan-71,MS-NAV,DOMESTIC,SOFTWARE
+Ajinomoto Foods Nigeria Limited,Food and Beverage Sector,MS-NAV,LAGOS,00289,1961.04,1961.04,Premium License,USD,4,462.51,Small Quanity,DOMESTIC,1,2024,Feb-71,MS-NAV,DOMESTIC,SOFTWARE
+Pinnacle Oil and Gas,Energy Sector,MS-AZ,LAGOS,00243,10357.76,0,Azure,USD,1,9857.76,Small Quanity,DOMESTIC,1,2024,Mar-71,MS-NAV,DOMESTIC,SOFTWARE
+Pinnacle Oil and Gas,Energy Sector,Others,LAGOS,00243,10357.76,10357.76,Annual SSL Certificate,USD,5,100,Small Quanity,DOMESTIC,0,2022,Apr-71,MS-NAV,DOMESTIC,SOFTWARE
+Beta Glass Plc.,Manufacturing Sector,MS-CRM,LAGOS,00026,20412000,0,Dynamics 365 Customer Service Enterprise,NGN,10,1108080,Small Quanity,DOMESTIC,1,2024,May-71,MS-NAV,DOMESTIC,SOFTWARE
+Beta Glass Plc.,Manufacturing Sector,MS-CRM,LAGOS,00026,20412000,20412000,Dynamics 365 Team Members,NGN,100,93312,Large Quantity,DOMESTIC,1,2024,Jun-71,MS-NAV,DOMESTIC,SOFTWARE
+Lee Engineering and Construction Co. Ltd,Construction and Engineering Sector,MS-AZ,LAGOS,00258,5189.52,5189.52,Azure,USD,1,5189.52,Small Quanity,DOMESTIC,1,2024,Jul-71,MS-NAV,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,MS-NAV,LAGOS,00176,1501740,0,HR & Payroll Module,NGN,1,1500000,Small Quanity,DOMESTIC,1,2024,Aug-71,MS-NAV,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,Others,LAGOS,00176,1501740,0,"Page, Report and XML",USD,1,1670,Small Quanity,DOMESTIC,0,2019,Sep-71,MS-NAV,DOMESTIC,SOFTWARE
+Capital Alliance Nigeria Limited,Financial Services Sector,Others,LAGOS,00176,1501740,1501740,BC Server C Drive,USD,7,10,Small Quanity,DOMESTIC,0,2023,Oct-71,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 for Team Members Enterprise Edition,USD,61,96,Large Quantity,DOMESTIC,1,2024,Nov-71,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Unf Ops Plan,USD,20,2520,Large Quantity,DOMESTIC,1,2024,Dec-71,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Operations Activity,USD,6,600,Small Quanity,DOMESTIC,1,2024,Jan-72,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dynamics 365 Customer Engagement Plan Enterprise Edition Tier 1 (1-99 users),USD,10,1140,Small Quanity,DOMESTIC,1,2024,Feb-72,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,MS-AX,LAGOS,00160,46955028.45,0,Dev. Environment,USD,1,2634.45,Small Quanity,DOMESTIC,1,2024,Mar-72,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,Others,LAGOS,00160,46955028.45,0,Additional Storage,USD,100,480,Large Quantity,DOMESTIC,0,2024,Apr-72,MS-NAV,DOMESTIC,SOFTWARE
+Gaslink Nigeria Limited,Energy Sector,Others,LAGOS,00160,46955028.45,46955028.45,Azure,NGN,1,46833138,Small Quanity,DOMESTIC,0,2023,May-72,MS-NAV,DOMESTIC,SOFTWARE
+Sarman Integrated Farms and Solutions Limited ,Agriculture and Agribusiness Sector,MS-NAV,KANO,00278,15.99,15.99,Business Central SSL Certificate,USD,1,15.99,Small Quanity,DOMESTIC,1,2024,Jun-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-PBI,LAGOS,00231,22578979.36,0,Azure,NGN,1,3310437.6,Small Quanity,DOMESTIC,1,2024,Jul-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Team Member User Licenses,NGN,1,726880,Small Quanity,DOMESTIC,1,2024,Aug-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Full Users,NGN,2,2180640,Small Quanity,DOMESTIC,1,2024,Sep-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,BoQ Excel Add-on,USD,1,802,Small Quanity,DOMESTIC,0,2021,Oct-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,Windows Server,NGN,25,98793.6,Large Quantity,DOMESTIC,0,2021,Nov-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Microsoft Defender ,USD,1,60,Small Quanity,DOMESTIC,0,2024,Dec-72,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Microsoft Defender ,USD,1,66,Small Quanity,DOMESTIC,0,2024,Jan-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-AZ,LAGOS,00231,22578979.36,0,Azure VM replica,USD,1,9480,Small Quanity,DOMESTIC,0,2024,Feb-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Azure Cloud Hosting & Site Recovery,USD,1,8294,Small Quanity,DOMESTIC,0,2024,Mar-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Azure Firewall,USD,1,11146.56,Small Quanity,DOMESTIC,0,2024,Apr-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,Office 365,USD,1,19572,Small Quanity,DOMESTIC,0,2024,May-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,MS Dynamics 365 BC License,USD,1,10843.2,Small Quanity,DOMESTIC,0,2024,Jun-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,NAVBuild Enhancement ,USD,1,3930,Small Quanity,DOMESTIC,0,2024,Jul-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,HR & Payroll Module,USD,1,1200,Small Quanity,DOMESTIC,0,2024,Aug-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,Others,LAGOS,00231,22578979.36,0,Full Users,NGN,2,1656720,Small Quanity,DOMESTIC,0,2023,Sep-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,0,NAVBuild Enhancement ,NGN,24,280800,Large Quantity,DOMESTIC,0,2023,Oct-73,MS-NAV,DOMESTIC,SOFTWARE
+Cappa and D’ Alberto Ltd.,Construction and Real Estate Sector,MS-NAV,LAGOS,00231,22578979.36,22578979.36,Power Apps License ,NGN,5,343200,Small Quanity,DOMESTIC,0,2023,Nov-73,MS-NAV,DOMESTIC,SOFTWARE
+Bajol Integrated Services Limited,Oil and Gas Sector,MS-AZ,LAGOS,00244,3806.23,3806.23,Azure,USD,1,3806.23,Small Quanity,DOMESTIC,1,2024,Dec-73,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,HR & Payroll Module,USD,1,11500,Small Quanity,DOMESTIC,1,2024,Jan-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,Time and Attendance Machine,USD,3,420,Small Quanity,DOMESTIC,1,2024,Feb-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,T&M ADDON SOLUTION,USD,1,3000,Small Quanity,DOMESTIC,1,2024,Mar-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,MS Dynamics 365 BC License,USD,15,840,Small Quanity,DOMESTIC,1,2024,Apr-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,MS Dynamics 365 BC License,USD,15,96,Small Quanity,DOMESTIC,1,2024,May-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-NAV,LAGOS,00174,687718.2,0,Microsoft 365 Business License,USD,1,43.2,Small Quanity,DOMESTIC,1,2024,Jun-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,Others,LAGOS,00174,687718.2,0,Service Charge,USD,1,5,Small Quanity,DOMESTIC,0,2021,Jul-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,Others,LAGOS,00174,687718.2,0,Windows Server,NGN,5,26250,Small Quanity,DOMESTIC,0,2024,Aug-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,Others,LAGOS,00174,687718.2,0,Windows Server,NGN,1,525000,Small Quanity,DOMESTIC,0,2024,Sep-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-OFF,LAGOS,00174,687718.2,0,MS PROJECT SOFTWARE,USD,3,360,Small Quanity,DOMESTIC,0,2024,Oct-74,MS-NAV,DOMESTIC,SOFTWARE
+PIVOT-GIS Limited,Geospatial Technology and Services Sector,MS-OFF,LAGOS,00174,687718.2,687718.2,MS VISIO SOFTWARE,USD,3,180,Small Quanity,DOMESTIC,0,2024,Nov-74,MS-NAV,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,0,Azure,USD,1,3216.3,Small Quanity,DOMESTIC,1,2024,Dec-74,MS-NAV,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,0,Azure,USD,1,5386.68,Small Quanity,DOMESTIC,0,2024,Jan-75,MS-NAV,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,Others,LAGOS,00202,22017.82,0,Additional 256ssd storage and 16gb memory,USD,1,6847.32,Small Quanity,DOMESTIC,0,2024,Feb-75,MS-NAV,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,Others,LAGOS,00202,22017.82,0,Remote Desktop Services CAL,USD,1,220,Small Quanity,DOMESTIC,0,2024,Mar-75,MS-NAV,DOMESTIC,SOFTWARE
+LandOver Company Limited,Aviation and Logistics Sector,MS-AZ,LAGOS,00202,22017.82,22017.82,Azure,USD,1,6347.52,Small Quanity,DOMESTIC,0,2022,Apr-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer,USD,2,360,Small Quanity,DOMESTIC,1,2024,May-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Human Resources Attach to Qualifying Dynamics 365 Base Offer,USD,2,360,Small Quanity,DOMESTIC,1,2024,Jun-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Team Members,USD,100,96,Large Quantity,DOMESTIC,1,2024,Jul-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Azure Active Directory,USD,1,72,Small Quanity,DOMESTIC,1,2024,Aug-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,MS-AX,LAGOS,00214,68520.28,0,Dynamics 365 Finance,USD,30,1800,Large Quantity,DOMESTIC,1,2024,Sep-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,Others,LAGOS,00214,68520.28,0,Dev. Environment,USD,3,852.07,Small Quanity,DOMESTIC,0,2024,Oct-75,MS-NAV,DOMESTIC,SOFTWARE
+Tangerine Life,Insurance and Financial Services Sector,Others,LAGOS,00214,68520.28,68520.28,Microsoft Dev. Environment,USD,1,852.07,Small Quanity,DOMESTIC,0,2022,Nov-75,MS-NAV,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,VAT 15%,USD,1,4.9905,Small Quanity,FOREIGN,1,2024,Dec-75,MS-NAV,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,Annual SSL Certificate,USD,1,31.39,Small Quanity,FOREIGN,1,2024,Jan-76,MS-NAV,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-CRM,ACCRA,00263,10498.55,0,GetFund+NHIL+COVID 19 Levy,USD,1,1.8834,Small Quanity,FOREIGN,1,2024,Feb-76,MS-NAV,DOMESTIC,SOFTWARE
+Devtraco Group,Construction and Real Estate Sector,MS-AZ,ACCRA,00263,10498.55,10498.55,Azure,USD,1,10460.292,Small Quanity,FOREIGN,0,2024,Mar-76,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Tables,USD,2,944,Small Quanity,DOMESTIC,1,2024,Apr-76,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Code Units,USD,1,944,Small Quanity,DOMESTIC,1,2024,May-76,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,0,Reports,USD,1,944,Small Quanity,DOMESTIC,1,2024,Jun-76,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Upstream & Energy Services,Oil and Gas Sector,MS-NAV,LAGOS,00288,4720,4720,Pages,USD,1,944,Small Quanity,DOMESTIC,1,2024,Jul-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft 365 App,USD,20,0,Large Quantity,DOMESTIC,1,2024,Aug-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Visio 2020 Plan 2,USD,2,180,Small Quanity,DOMESTIC,0,2021,Sep-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft Project,USD,1,360,Small Quanity,DOMESTIC,0,2021,Oct-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,MS-OFF,LAGOS,00212,15897,0,Microsoft 365 App,USD,20,99.6,Large Quantity,DOMESTIC,1,2022,Nov-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,0,Migration Tool,USD,70,18,Large Quantity,DOMESTIC,0,2023,Dec-76,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,0,M365 Business Standard,USD,70,150,Large Quantity,DOMESTIC,0,2023,Jan-77,MS-NAV,DOMESTIC,SOFTWARE
+Mixta Africa,Construction and Real Estate Sector,Others,LAGOS,00212,15897,15897,Professional Fee,USD,1,3000,Small Quanity,DOMESTIC,0,2023,Feb-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_DB-APP_UPGRADE,USD,1,7729.2,Small Quanity,DOMESTIC,1,2024,Mar-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,11257.92,Small Quanity,DOMESTIC,1,2024,Apr-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,MS-AZ,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,7741.44,Small Quanity,DOMESTIC,1,2024,May-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B8ms, Windows and OS",USD,1,3840.12,Small Quanity,DOMESTIC,1,2024,Jun-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"Internet egress, 1000GB",USD,1,939.6,Small Quanity,DOMESTIC,1,2024,Jul-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"Basic (ARM), Dynamic IP Addresses, Static IP Addresses",USD,1,266.28,Small Quanity,DOMESTIC,1,2024,Aug-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,Virtual Network,USD,1,48,Small Quanity,DOMESTIC,1,2024,Sep-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,Customer instances and Azure instances,USD,1,1968,Small Quanity,DOMESTIC,1,2024,Oct-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,RL_ALLSERVERS UPGRADE,USD,1,11257.92,Small Quanity,DOMESTIC,1,2024,Nov-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B2ms, Windows and OS",USD,1,1007.16,Small Quanity,DOMESTIC,1,2024,Dec-77,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,0,"B8ms, Windows and OS",USD,1,3840.12,Small Quanity,DOMESTIC,1,2024,Jan-78,MS-NAV,DOMESTIC,SOFTWARE
+Real Logistics Limited,Logistics and Supply Chain Management Sector,Others,LAGOS,00254,50815.2,50815.2,"B2ms, Windows and OS",USD,1,919.44,Small Quanity,DOMESTIC,1,2024,Feb-78,MS-NAV,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,Dynamics 365 Customer Service Enterprise Attach to Qualifying Dynamics 365 Base Offer,NGN,1,372000,Small Quanity,DOMESTIC,1,2024,Mar-78,MS-NAV,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,Dynamics 365 Field Service,NGN,17,1767000,Small Quanity,DOMESTIC,1,2024,Apr-78,MS-NAV,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,0,User License,NGN,11,210600,Small Quanity,DOMESTIC,1,2023,May-78,MS-NAV,DOMESTIC,SOFTWARE
+Josien Holdings Limited ,Investment and Diversified Holdings,MS-NAV,LAGOS,00251,33780600,33780600,User License,NGN,1,1053000,Small Quanity,DOMESTIC,1,2023,Jun-78,MS-NAV,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,Others,LAGOS,00230,8497.94,0,Prorated Microsoft Azure,USD,1,1098.21,Small Quanity,DOMESTIC,1,2024,Jul-78,MS-NAV,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,MS-AZ,LAGOS,00230,8497.94,0,Azure,USD,1,791.73,Small Quanity,DOMESTIC,1,2024,Aug-78,MS-NAV,DOMESTIC,SOFTWARE
+Segilola Resources Operating Limited,Mining and Natural Resources Sector,MS-NAV,LAGOS,00230,8497.94,8497.94,Premium License,USD,2,3304,Small Quanity,DOMESTIC,0,2023,Sep-78,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Endpoints,NGN,0,0,Small Quanity,DOMESTIC,1,2023,Oct-78,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Data Points,NGN,0,0,Small Quanity,DOMESTIC,1,2023,Nov-78,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,70% Advance payment,NGN,1,3538124.24,Small Quanity,DOMESTIC,1,2023,Dec-78,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,30% upon completion,NGN,1,1516338.96,Small Quanity,DOMESTIC,1,2023,Jan-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Customer instances and Azure instances,NGN,1,2322240,Small Quanity,DOMESTIC,1,2023,Feb-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,"Basic (ARM), Dynamic IP Addresses, Static IP Addresses",NGN,1,190186.8,Small Quanity,DOMESTIC,1,2023,Mar-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Traffic Manager,NGN,1,230808,Small Quanity,DOMESTIC,1,2023,Apr-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00118,8092182.2,0,Premium Block Blob Storage,NGN,1,292785,Small Quanity,DOMESTIC,1,2023,May-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,0,Tables,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Jun-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,0,Pages,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Jul-79,MS-NAV,DOMESTIC,SOFTWARE
+Mouka Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00118,8092182.2,8092182.2,Reports,USD,1,566.4,Small Quanity,DOMESTIC,0,2023,Aug-79,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,Essential User Licenses,USD,3,210,Small Quanity,DOMESTIC,1,2024,Sep-79,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,Team Member User Licenses,USD,2,24,Small Quanity,DOMESTIC,1,2024,Oct-79,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,1064460,Small Quanity,DOMESTIC,1,2023,Nov-79,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,290700,Small Quanity,DOMESTIC,1,2023,Dec-79,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,827160,Small Quanity,DOMESTIC,1,2023,Jan-80,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,MS-NAV,LAGOS,00256,4400058,0,MS Dynamics 365 BC License,NGN,1,1064460,Small Quanity,DOMESTIC,1,2023,Feb-80,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,Others,LAGOS,00256,4400058,0,Essential User Licenses,NGN,3,357000,Small Quanity,DOMESTIC,0,2024,Mar-80,MS-NAV,DOMESTIC,SOFTWARE
+AFROMEDIA PLC,Media and Entertainment Sector,Others,LAGOS,00256,4400058,4400058,Team Member User Licenses,NGN,2,40800,Small Quanity,DOMESTIC,0,2024,Apr-80,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Group,Maritime and Offshore Services Sector,MS-NAV,LAGOS,00288,7500,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,1,2024,May-80,MS-NAV,DOMESTIC,SOFTWARE
+Frigate Group,Maritime and Offshore Services Sector,MS-NAV,LAGOS,00288,7500,7500,ESS Portal,USD,1,2500,Small Quanity,DOMESTIC,1,2024,Jun-80,MS-NAV,DOMESTIC,SOFTWARE
+Nigeria Sovereign Investment Authority,Insurance and Financial Services Sector,MS-AX,ABUJA,00168,2647118.88,2647118.88,Balance of Microsoft Azure for Dev. Environment,NGN,1,2647118.88,Small Quanity,DOMESTIC,1,2024,Jul-80,MS-NAV,DOMESTIC,SOFTWARE
+Candel Company Limited,Agriculture and Agribusiness Sector,Others,LAGOS,00066,10000,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,Aug-80,MS-NAV,DOMESTIC,SOFTWARE
+Candel Company Limited,Agriculture and Agribusiness Sector,Others,LAGOS,00066,10000,10000,Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,Sep-80,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Annual SSL Certificate,USD,1,145.76,Small Quanity,DOMESTIC,0,2021,Oct-80,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Transaction Fee,USD,1,25,Small Quanity,DOMESTIC,0,2021,Nov-80,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Codeunits (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Dec-80,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central XML Ports (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Jan-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Queries (100),USD,1,480,Small Quanity,DOMESTIC,0,2021,Feb-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Enhancement Plan,USD,1,5069,Small Quanity,DOMESTIC,0,2021,Mar-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,CRM Full user ,USD,15,96,Small Quanity,DOMESTIC,0,2021,Apr-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,D365 Integration Tool ,USD,1,2500,Small Quanity,DOMESTIC,0,2021,May-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,SQL Server License ,USD,1,898,Small Quanity,DOMESTIC,0,2021,Jun-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,SQL Cal License,USD,30,205,Large Quantity,DOMESTIC,0,2021,Jul-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Reports (100),USD,3,480,Small Quanity,DOMESTIC,0,2021,Aug-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Pages (100),USD,3,480,Small Quanity,DOMESTIC,0,2021,Sep-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Team Members,USD,10,240,Small Quanity,DOMESTIC,0,2021,Oct-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Tables (10),USD,17,480,Small Quanity,DOMESTIC,0,2021,Nov-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Azure,USD,1,9282,Small Quanity,DOMESTIC,0,2021,Dec-81,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Power BI Pro License ,USD,1,120,Small Quanity,DOMESTIC,0,2021,Jan-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,HR & Payroll Module,USD,1,5000,Small Quanity,DOMESTIC,0,2021,Feb-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Sales + Customer Service,USD,5,1380,Small Quanity,DOMESTIC,0,2021,Mar-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Dyn365 Business Central Premium,USD,10,1680,Small Quanity,DOMESTIC,0,2021,Apr-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Dyn365 Business Central Premium,USD,8,1948.8,Small Quanity,DOMESTIC,1,2021,May-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Dyn365 Business Central Team Members,USD,8,278.4,Small Quanity,DOMESTIC,1,2021,Jun-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-CRM,LAGOS,00246,221432.16,0,CRM Full user ,USD,2,1380,Small Quanity,DOMESTIC,1,2021,Jul-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-CRM,LAGOS,00246,221432.16,0,CRM Full user ,USD,2,96,Small Quanity,DOMESTIC,1,2021,Aug-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Pages,USD,2,944,Small Quanity,DOMESTIC,0,2024,Sep-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Reports,USD,1,944,Small Quanity,DOMESTIC,0,2024,Oct-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,XML Ports,USD,1,944,Small Quanity,DOMESTIC,0,2024,Nov-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Queries,USD,1,944,Small Quanity,DOMESTIC,0,2024,Dec-82,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Code Units,USD,1,944,Small Quanity,DOMESTIC,0,2024,Jan-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Premium License,USD,10,3304,Small Quanity,DOMESTIC,0,2024,Feb-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Team Member User Licenses,USD,3,472,Small Quanity,DOMESTIC,0,2024,Mar-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Tables,USD,10,944,Small Quanity,DOMESTIC,0,2024,Apr-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Premium License,USD,10,3304,Small Quanity,DOMESTIC,0,2024,May-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,MS-NAV,LAGOS,00246,221432.16,0,Team Member User Licenses,USD,5,472,Small Quanity,DOMESTIC,0,2024,Jun-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,0,Full Users,USD,23,1948.8,Large Quantity,DOMESTIC,0,2022,Jul-83,MS-NAV,DOMESTIC,SOFTWARE
+Afriglobal Group,Construction and Infrastructure Development Sector,Others,LAGOS,00246,221432.16,221432.16,Team Member User Licenses,USD,6,278.4,Small Quanity,DOMESTIC,0,2022,Aug-83,MS-NAV,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,0,SSIS Integration Toolkit,NGN,0,0,Small Quanity,DOMESTIC,0,2021,Sep-83,MS-NAV,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,0,SSIS Integration Toolkit,NGN,1,1275000,Small Quanity,DOMESTIC,0,2021,Oct-83,MS-NAV,DOMESTIC,SOFTWARE
+Leadway Pensure PFA Limited,Pension Fund Management Sector,Others,LAGOS,00146,2499510,2499510,SSIS Integration Toolkit,NGN,1,1224510,Small Quanity,DOMESTIC,0,2021,Nov-83,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,HR & Payroll Module,USD,1,3000,Small Quanity,DOMESTIC,0,2021,Dec-83,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,Annual CSV-APP,USD,1,8331.52,Small Quanity,DOMESTIC,0,2020,Jan-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,Annual SSL Certificate,NGN,1,43606290,Small Quanity,DOMESTIC,1,2024,Feb-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,Limited license,USD,1,472,Small Quanity,DOMESTIC,1,2024,Mar-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,USD,4,708000,Small Quanity,DOMESTIC,1,2024,Apr-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-AZ,LAGOS,00095,57897202.85,0,Annual SSL Certificate,USD,1,38.45,Small Quanity,DOMESTIC,1,2023,May-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,NGN,3,764640,Small Quanity,DOMESTIC,0,2024,Jun-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,Premium License,NGN,1,5088160,Small Quanity,DOMESTIC,0,2024,Jul-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,Outstanding balance for NAV limited License ,NGN,1,406864,Small Quanity,DOMESTIC,0,2024,Aug-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,MS-NAV,LAGOS,00095,57897202.85,0,User License,NGN,5,731600,Small Quanity,DOMESTIC,0,2024,Sep-84,MS-NAV,DOMESTIC,SOFTWARE
+SAROAFRICA INTERNATIONAL LIMITED,Agriculture and Agribusiness Sector,GENERAL,LAGOS,00095,57897202.85,57897202.85,Annual SSL Certificate,USD,1,126.88,Small Quanity,DOMESTIC,0,2022,Oct-84,MS-NAV,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,User License,USD,1,10896,Small Quanity,DOMESTIC,0,2021,Nov-84,MS-NAV,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,"B2ms, Windows and OS",NGN,0,0,Small Quanity,DOMESTIC,0,2020,Dec-84,MS-NAV,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,0,Premium License,USD,5,1982.4,Small Quanity,DOMESTIC,1,2023,Jan-85,MS-NAV,DOMESTIC,SOFTWARE
+Rainoil Limited,Oil and Gas Sector,Others,LAGOS,00086,22224,22224,Team Member User Licenses,USD,5,283.2,Small Quanity,DOMESTIC,1,2023,Feb-85,MS-NAV,DOMESTIC,SOFTWARE
+Smackers Limited,Food and Beverage Sector,MS-AZ,LAGOS,00227,9260.28,9260.28,Azure,USD,1,9260.28,Small Quanity,DOMESTIC,0,2021,Mar-85,MS-NAV,DOMESTIC,SOFTWARE
+Starsight Energy,Energy Sector,MS-AZ,LAGOS,00153,59412.07,0,Azure,USD,1,852.07,Small Quanity,DOMESTIC,0,2021,Apr-85,MS-NAV,DOMESTIC,SOFTWARE
+Starsight Energy,Energy Sector,MS-AX,LAGOS,00153,59412.07,0,2nd Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,May-85,MS-NAV,DOMESTIC,SOFTWARE
+Starsight Energy,Energy Sector,MS-AX,LAGOS,00153,59412.07,0,3rd Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Jun-85,MS-NAV,DOMESTIC,SOFTWARE
+Starsight Energy,Energy Sector,MS-AX,LAGOS,00153,59412.07,0,4th Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Jul-85,MS-NAV,DOMESTIC,SOFTWARE
+Starsight Energy,Energy Sector,MS-AX,LAGOS,00153,59412.07,59412.07,1st Quarter Payment,USD,1,14640,Small Quanity,DOMESTIC,1,2024,Aug-85,MS-NAV,DOMESTIC,SOFTWARE
+Northern Cable Processing & Manufacturing Co.Ltd,"Consumer Goods, Manufacturing, and Distribution Sector",Others,KADUNA,00016,400000,400000,Software token ,NGN,1,400000,Small Quanity,DOMESTIC,0,2021,Sep-85,MS-NAV,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Object Licenses,USD,1,1114,Small Quanity,FOREIGN,0,2021,Oct-85,MS-NAV,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,Others,ACCRA,00033,65147,0,User License,USD,1,62362,Small Quanity,FOREIGN,0,2020,Nov-85,MS-NAV,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Forms,USD,1,557,Small Quanity,FOREIGN,0,2022,Dec-85,MS-NAV,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,0,Reports,USD,1,557,Small Quanity,FOREIGN,0,2022,Jan-86,MS-NAV,DOMESTIC,SOFTWARE
+iBit Soft Ltd,Information Technology and Software Development Sector,MS-NAV,ACCRA,00033,65147,65147,Tables,USD,1,557,Small Quanity,FOREIGN,0,2022,Feb-86,MS-NAV,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,0,Object Licenses,USD,1,1670,Small Quanity,DOMESTIC,0,2020,Mar-86,MS-NAV,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,0,Tables,USD,1,557,Small Quanity,DOMESTIC,0,2018,Apr-86,MS-NAV,DOMESTIC,SOFTWARE
+Fan Milk Limited,Food and Beverage Sector,Others,ACCRA,00046,2737.4,2737.4,Tables,USD,1,510.4,Small Quanity,DOMESTIC,0,2016,May-86,MS-NAV,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,MS-NAV,ACCRA,00150,273770.07,0,Microsoft Dynamics NAV License,USD,1,9832.35,Small Quanity,DOMESTIC,0,2021,Jun-86,MS-NAV,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,MS-NAV,ACCRA,00150,273770.07,0,User License,USD,1,21972,Small Quanity,DOMESTIC,0,2022,Jul-86,MS-NAV,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,0,Microsoft Security,USD,1,18004.2,Small Quanity,DOMESTIC,0,2024,Aug-86,MS-NAV,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,0,Azure,USD,1,97864.68,Small Quanity,DOMESTIC,0,2024,Sep-86,MS-NAV,DOMESTIC,SOFTWARE
+East Cantonment Pharmacy Limited,Healthcare and Pharmaceutical Sector,Others,ACCRA,00150,273770.07,273770.07,Azure,USD,1,126096.84,Small Quanity,DOMESTIC,0,2024,Oct-86,MS-NAV,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,0,AfyA Care- HoldCo,USD,1,15869,Small Quanity,DOMESTIC,0,2021,Nov-86,MS-NAV,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,0,Bastion Health Limited,USD,1,9187,Small Quanity,DOMESTIC,0,2021,Dec-86,MS-NAV,DOMESTIC,SOFTWARE
+AFYA CARE NIGERIA,Healthcare and Medical Services Sector,Others,LAGOS,00225,50669,50669,RJolad,USD,1,25613,Small Quanity,DOMESTIC,0,2021,Jan-87,MS-NAV,DOMESTIC,SOFTWARE
+National Tuberculosis & Leprosy Control Programme,Public Health and Disease Control Sector,Others,ABUJA,00119,25294.24,0,Azure,USD,1,13033.02,Small Quanity,DOMESTIC,0,2020,Feb-87,MS-NAV,DOMESTIC,SOFTWARE
+National Tuberculosis & Leprosy Control Programme,Public Health and Disease Control Sector,Others,ABUJA,00119,25294.24,25294.24,Azure Firewall,USD,1,12261.22,Small Quanity,DOMESTIC,0,2020,Mar-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,MS Dynamics 365 CE License,USD,1,16368,Small Quanity,DOMESTIC,0,2020,Apr-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Connector,USD,1,2500,Small Quanity,DOMESTIC,0,2020,May-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Discount,USD,1,-2196,Small Quanity,DOMESTIC,0,2020,Jun-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-AZ,LAGOS,00091,71285.26,0,Azure,USD,1,19737.12,Small Quanity,DOMESTIC,1,2024,Jul-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Server Upgrade,USD,1,5464.3,Small Quanity,DOMESTIC,0,2022,Aug-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Server Upgrade,USD,1,7361.84,Small Quanity,DOMESTIC,0,2022,Sep-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00091,71285.26,0,Dynamics 365 Team Members,NGN,15,32,Small Quanity,DOMESTIC,0,2022,Oct-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-OFF,LAGOS,00091,71285.26,0,Microsoft 365 Business License,USD,82,60,Large Quantity,DOMESTIC,0,2021,Nov-87,MS-NAV,DOMESTIC,SOFTWARE
+Mandilas Enterprise Limited,"Consumer Goods, Manufacturing, and Distribution Sector",MS-OFF,LAGOS,00091,71285.26,71285.26,Microsoft 365 Business License,USD,111,150,Large Quantity,DOMESTIC,0,2021,Dec-87,MS-NAV,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Office 365 Advanced Threat Protection (Plan 2),USD,81,60,Large Quantity,DOMESTIC,0,2020,Jan-88,MS-NAV,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Microsoft Dynamics 365 Unified Operations Plan,NGN,1,653400,Small Quanity,DOMESTIC,0,2019,Feb-88,MS-NAV,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,0,Team Member User Licenses,NGN,7,34848,Small Quanity,DOMESTIC,0,2019,Mar-88,MS-NAV,DOMESTIC,SOFTWARE
+Axxela Limited,Energy Sector,Others,LAGOS,00160,1337310,1337310,Dynamics 365 Unified Operations - Activity ,NGN,2,217800,Small Quanity,DOMESTIC,0,2019,Apr-88,MS-NAV,DOMESTIC,SOFTWARE
+Ladol Integrated Logistics,"Logistics, Maritime and Oil and Gas Sector",Others,LAGOS,00140,2994,2994,SSIS Integration Toolkit,USD,1,2994,Small Quanity,DOMESTIC,0,2020,May-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,OfficeStd 2019 SNGL OLP NL,NGN,20,146931.84,Large Quantity,DOMESTIC,0,2020,Jun-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,OfficeProPlus 2019 SNGL OLP NL,NGN,10,261127.68,Small Quanity,DOMESTIC,0,2020,Jul-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,9EM-00652 WinSvrSTDCore 2019 SNGL OLP 16Lic NL Cor,USD,2,946.077,Small Quanity,DOMESTIC,0,2020,Aug-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,R18-05768 WinSvrCAL 2019 SNGL OLP NL UsrCAL,USD,5,40.81,Small Quanity,DOMESTIC,0,2020,Sep-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-NAV,LAGOS,00015,7679591.46,0,Windows Server,USD,5,1086.75,Small Quanity,DOMESTIC,0,2023,Oct-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-NAV,LAGOS,00015,7679591.46,0,Windows Server,USD,5,47.15,Small Quanity,DOMESTIC,0,2023,Nov-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,SharePoint,USD,5,60,Small Quanity,DOMESTIC,0,2023,Dec-88,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,50% Advance Payment,NGN,1,1100000,Small Quanity,DOMESTIC,0,2023,Jan-89,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,30% at UAT,NGN,1,660000,Small Quanity,DOMESTIC,0,2023,Feb-89,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,Others,LAGOS,00015,7679591.46,0,20% at Go-Live,NGN,1,440000,Small Quanity,DOMESTIC,0,2023,Mar-89,MS-NAV,DOMESTIC,SOFTWARE
+KabelMetal Nigeria Plc,Manufacturing and Industrial Sector,MS-OFF,LAGOS,00015,7679591.46,7679591.46,Offce 365 E3,USD,3,240120,Small Quanity,DOMESTIC,0,2023,Apr-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,Business Basic,USD,100,86.4,Large Quantity,DOMESTIC,0,2020,May-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,Business standard,USD,20,180,Large Quantity,DOMESTIC,0,2020,Jun-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,MS-NAV,LAGOS,00166,54329.29,0,MS DYN 365 LIC,USD,1,31889.29,Small Quanity,DOMESTIC,1,2024,Jul-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,Exchange Online ,USD,0,0,Small Quanity,DOMESTIC,0,2023,Aug-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,Office 365 E3,USD,0,0,Small Quanity,DOMESTIC,0,2023,Sep-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,0,M365 Business Basic,USD,100,72,Large Quantity,DOMESTIC,0,2023,Oct-89,MS-NAV,DOMESTIC,SOFTWARE
+Inland Containers Nigeria Limited,Logistics and Transportation Sector,Others,LAGOS,00166,54329.29,54329.29,M365 Business Standard,USD,20,150,Large Quantity,DOMESTIC,0,2023,Nov-89,MS-NAV,DOMESTIC,SOFTWARE
+ARM Life Plc,Insurance and Financial Services Sector,Others,LAGOS,00165,8746.8,0,Finance License,USD,10,666.68,Small Quanity,DOMESTIC,0,2020,Dec-89,MS-NAV,DOMESTIC,SOFTWARE
+ARM Life Plc,Insurance and Financial Services Sector,Others,LAGOS,00165,8746.8,8746.8,Team Member User Licenses,USD,65,32,Large Quantity,DOMESTIC,0,2020,Jan-90,MS-NAV,DOMESTIC,SOFTWARE
+IBOM AIR,Aviation and Transportation Sector,Others,AKWA IBOM,00192,15170316.15,0,Azure ,NGN,1,2773091.15,Small Quanity,DOMESTIC,0,2019,Feb-90,MS-NAV,DOMESTIC,SOFTWARE
+IBOM AIR,Aviation and Transportation Sector,Others,AKWA IBOM,00192,15170316.15,15170316.15,MS Business Central Licenses,NGN,1,12397225,Small Quanity,DOMESTIC,0,2019,Mar-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SQL Server License ,NGN,1,780000,Small Quanity,DOMESTIC,0,2019,Apr-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SQL Cal License,NGN,50,18700,Large Quantity,DOMESTIC,0,2019,May-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Active Directory,NGN,20,52560,Large Quantity,DOMESTIC,1,2022,Jun-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Service Bus Components,NGN,1,13048589.4,Small Quanity,DOMESTIC,1,2022,Jul-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,AD Audit Plus,NGN,1,3075490,Small Quanity,DOMESTIC,1,2022,Aug-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SSL Certificate for Active Directory,NGN,3,77380,Small Quanity,DOMESTIC,1,2022,Sep-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Microsoft 365 Business License,USD,195,950400,Large Quantity,DOMESTIC,0,2023,Oct-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Microsoft Power BI premium,USD,15,864000,Small Quanity,DOMESTIC,0,2023,Nov-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Microsoft Exchange,USD,2,172800,Small Quanity,DOMESTIC,0,2023,Dec-90,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,MS-OFF,ABUJA,00115,243887010.2,0,Sophos XG 430 XTREAM,NGN,3,16203362.4,Small Quanity,DOMESTIC,0,2023,Jan-91,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,MS-OFF,ABUJA,00115,243887010.2,0,Email Protection,NGN,3,2430699.26,Small Quanity,DOMESTIC,0,2023,Feb-91,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,Azure Active Directory,USD,20,72,Large Quantity,DOMESTIC,0,2022,Mar-91,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,AD Audit Plus,USD,1,4213,Small Quanity,DOMESTIC,0,2022,Apr-91,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,0,SSL Certificate for Active Directory,USD,3,106,Small Quanity,DOMESTIC,0,2022,May-91,MS-NAV,DOMESTIC,SOFTWARE
+Ringardas Nigeria Limited,Oil and Gas Sector,Others,ABUJA,00115,243887010.2,243887010.2,Azure Service bus components,USD,1,17874.78,Small Quanity,DOMESTIC,0,2022,Jun-91,MS-NAV,DOMESTIC,SOFTWARE
+Literamed Publications,Media and Entertainment Sector,Others,LAGOS,00081,2349.44,2349.44,One Year Business Ready Enhancement Plan,USD,1,2349.44,Small Quanity,DOMESTIC,0,2019,Jul-91,MS-NAV,DOMESTIC,SOFTWARE
+HAYAT KIMYAT NIG. LTD,"Consumer Goods, Manufacturing, and Distribution Sector",MS-NAV,LAGOS,00110,648911.6,648911.6,MS Dynamics NAV License Enhancement,NGN,1,648911.6,Small Quanity,DOMESTIC,0,2020,Aug-91,MS-NAV,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,Customer Engagement,USD,5,1380,Small Quanity,DOMESTIC,0,2019,Sep-91,MS-NAV,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,ESS Portal,NGN,1,1500000,Small Quanity,DOMESTIC,0,2019,Oct-91,MS-NAV,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,0,Business Central,USD,1,35635,Small Quanity,DOMESTIC,0,2019,Nov-91,MS-NAV,DOMESTIC,SOFTWARE
+LiveSpot 360,Media and Entertainment Sector,Others,LAGOS,00197,1548488.13,1548488.13,Azure,USD,1,5953.13,Small Quanity,DOMESTIC,0,2019,Dec-91,MS-NAV,DOMESTIC,SOFTWARE
+KAM Industries Limited,Manufacturing and Industrial Sector,MS-NAV,KWARA STATE,00154,4850.56,0,Object Licenses,USD,1,3898,Small Quanity,DOMESTIC,0,2019,Jan-92,MS-NAV,DOMESTIC,SOFTWARE
+KAM Industries Limited,Manufacturing and Industrial Sector,Others,KWARA STATE,00154,4850.56,4850.56,SQL Server License ,USD,1,952.56,Small Quanity,DOMESTIC,0,2018,Feb-92,MS-NAV,DOMESTIC,SOFTWARE
+Orange Drugs Limited,Manufacturing and Industrial Sector,Others,LAGOS,00185,1754620.8,0,Team Member User Licenses,NGN,1,1016160,Small Quanity,DOMESTIC,0,2019,Mar-92,MS-NAV,DOMESTIC,SOFTWARE
+Orange Drugs Limited,Manufacturing and Industrial Sector,Others,LAGOS,00185,1754620.8,1754620.8,SQL Cal License,NGN,1,738460.8,Small Quanity,DOMESTIC,0,2019,Apr-92,MS-NAV,DOMESTIC,SOFTWARE
+Continental Broadcasting Service Limited,Media and Entertainment Sector,Others,LAGOS,00126,81602.4,81602.4,Office ProPlus Licenses,USD,150,544.016,Large Quantity,DOMESTIC,0,2020,May-92,MS-NAV,DOMESTIC,SOFTWARE
+EAST CANTONMENTS PHARMACY LIMITED,Pharmaceuticals and Healthcare Sector,Others,ACCRA,00150,13584,13584,Microsoft Dynamics NAV License,USD,1,13584,Small Quanity,DOMESTIC,0,2019,Jun-92,MS-NAV,DOMESTIC,SOFTWARE
+SIFAX Group,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,16800,16800,Microsoft Office 365 E3 Plan,USD,70,240,Large Quantity,DOMESTIC,0,2019,Jul-92,MS-NAV,DOMESTIC,SOFTWARE
+FilmoRealty Limited ,Construction and Infrastructure Development Sector,Others,LAGOS,00133,1138800,0,Licenses,NGN,32,21900,Large Quantity,DOMESTIC,0,2019,Aug-92,MS-NAV,DOMESTIC,SOFTWARE
+FilmoRealty Limited ,Construction and Infrastructure Development Sector,Others,LAGOS,00133,1138800,1138800,Licenses,NGN,8,54750,Small Quanity,DOMESTIC,0,2019,Sep-92,MS-NAV,DOMESTIC,SOFTWARE
+Vatebra Limited,Technology and Digital Solutions Sector,Others,LAGOS,00100,2400,2400,Social Enagagement License,USD,2,1200,Small Quanity,DOMESTIC,0,2018,Oct-92,MS-NAV,DOMESTIC,SOFTWARE
+Intels Nigeria Limited,"Logistics, Maritime and Oil and Gas Sector",Others,RIVERS,00068,4560,4560,SharePoint,USD,40,114,Large Quantity,DOMESTIC,0,2018,Nov-92,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Enterprise User CAL,USD,1,4000,Small Quanity,DOMESTIC,0,2018,Dec-92,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Functional User CAL,USD,1,1600,Small Quanity,DOMESTIC,0,2018,Jan-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Self Serve User CAL,USD,1,120,Small Quanity,DOMESTIC,0,2018,Feb-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Task User CAL,USD,1,400,Small Quanity,DOMESTIC,0,2018,Mar-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Microsft Business Standard license,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Apr-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Additional users for Microsft Business Standard,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,May-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,0,Additional Microsoft 365 Business Standard,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Jun-93,MS-NAV,DOMESTIC,SOFTWARE
+Honeywell Flour Mills Plc,Food and Agriculture Sector,Others,LAGOS,00054,33233130,33233130,Microsft Business,NGN,100,85500,Large Quantity,DOMESTIC,1,2021,Jul-93,MS-NAV,DOMESTIC,SOFTWARE
+Technology Distribution Company Limited,Technology and Digital Solutions Sector,MS-AX,LAGOS,00096,77880.6,0,Dynamics 365 Ent Edition Plan,USD,10,2311.5,Small Quanity,DOMESTIC,0,2017,Aug-93,MS-NAV,DOMESTIC,SOFTWARE
+Technology Distribution Company Limited,Technology and Digital Solutions Sector,MS-AX,LAGOS,00096,77880.6,77880.6,MS DYNAMICS AX LICENSE,USD,1,54765.6,Small Quanity,DOMESTIC,0,2016,Sep-93,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,12666960,0,Office 365 Business,NGN,150,52560,Large Quantity,DOMESTIC,0,2018,Oct-93,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,12666960,0,Office 365 Business,NGN,220,20367,Large Quantity,DOMESTIC,0,2018,Nov-93,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare Plc,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,12666960,12666960,Office 365 Enterprise E5,NGN,2,151110,Small Quanity,DOMESTIC,0,2018,Dec-93,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Code Units,USD,1,480,Small Quanity,DOMESTIC,0,2017,Jan-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,SQL Server License ,USD,10,76,Small Quanity,DOMESTIC,0,2017,Feb-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,MS-NAV,RIVERS,00041,6286,0,Others,USD,0,3336,Small Quanity,DOMESTIC,0,2017,Mar-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,SQL Server License ,USD,1,6,Small Quanity,DOMESTIC,0,2017,Apr-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Limited Concurrent CAL ,USD,10,360,Small Quanity,DOMESTIC,0,2017,May-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Tables,USD,1,480,Small Quanity,DOMESTIC,0,2017,Jun-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Reports,USD,1,480,Small Quanity,DOMESTIC,0,2017,Jul-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,Others,RIVERS,00041,6286,0,Pages,USD,1,480,Small Quanity,DOMESTIC,0,2017,Aug-94,MS-NAV,DOMESTIC,SOFTWARE
+Notore Chemical Industries Limited,Agriculture and Chemical Manufacturing Sector,MS-NAV,RIVERS,00041,6286,6286,Others,USD,0,20850,Small Quanity,DOMESTIC,0,2017,Sep-94,MS-NAV,DOMESTIC,SOFTWARE
+MOUKA LIMITED,Manufacturing and Industrial Sector,Others,LAGOS,00118,480,480,Tables,USD,1,480,Small Quanity,DOMESTIC,0,2017,Oct-94,MS-NAV,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Agriculture and Food Processing Sector,Others,LAGOS,00001,18767,0,Full Concurrent CAL ,USD,10,1800,Small Quanity,DOMESTIC,0,2017,Nov-94,MS-NAV,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Agriculture and Food Processing Sector,Others,LAGOS,00001,18767,0,SQL Server License ,USD,10,76,Small Quanity,DOMESTIC,0,2017,Dec-94,MS-NAV,DOMESTIC,SOFTWARE
+Flour Mills of Nig. Plc.,Agriculture and Food Processing Sector,Others,LAGOS,00001,18767,18767,SQL Server License ,USD,1,7,Small Quanity,DOMESTIC,0,2017,Jan-95,MS-NAV,DOMESTIC,SOFTWARE
+Lababidi Holdings Limited,Construction and Infrastructure Development Sector,MS-AX,LAGOS,00039,12661.6,12661.6,MS DYNAMICS AX LICENSE,USD,1,12661.6,Small Quanity,DOMESTIC,0,2016,Feb-95,MS-NAV,DOMESTIC,SOFTWARE
+Fan Milk Plc,Food and Beverage Sector,Others,IBADAN,00023,2666220,0,Limited Concurrent CAL ,NGN,20,133200,Large Quantity,DOMESTIC,0,2017,Mar-95,MS-NAV,DOMESTIC,SOFTWARE
+Fan Milk Plc,Food and Beverage Sector,Others,IBADAN,00023,2666220,2666220,SQL Server License ,NGN,1,2220,Small Quanity,DOMESTIC,0,2017,Apr-95,MS-NAV,DOMESTIC,SOFTWARE
+IHS Nigeria Plc,Telecommunications Infrastructure Sector,Others,LAGOS,00079,5506660,5506660,THE MICROSOFT DYNAMICS NAV PERPETUAL ,NGN,1,5506660,Small Quanity,DOMESTIC,0,2015,May-95,MS-NAV,DOMESTIC,SOFTWARE
+Murphy Shipping & Commercial Services Limited,Logistics and Transportation Sector,Others,LAGOS,00043,1000000,1000000,50% of software implementation fee in advance,NGN,1,1000000,Small Quanity,DOMESTIC,0,2015,Jun-95,MS-NAV,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,0,CONCURRENT USER CAL,NGN,5,360,Small Quanity,DOMESTIC,0,2015,Jul-95,MS-NAV,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,0,CONVERTED FULL CONCURRENT USER CAL,USD,10,1440,Small Quanity,DOMESTIC,0,2015,Aug-95,MS-NAV,DOMESTIC,SOFTWARE
+FRIGOGLASS WEST AFRICA LIMITED,Manufacturing and Industrial Sector,Others,IBADAN,00104,18792,18792,BUSINESS READY ENHANCEMENT PLAN,USD,1,2592,Small Quanity,DOMESTIC,0,2015,Sep-95,MS-NAV,DOMESTIC,SOFTWARE
+Abiola Adewale,Retail & Commerce Sector,Others,LAGOS,null,13185,13185,THE MICROSOFT DYNAMICS NAV PERPETUAL ,USD,1,13185,Small Quanity,DOMESTIC,0,2014,Oct-95,MS-NAV,DOMESTIC,SOFTWARE
+Shoreline Power Company Limited,Energy Sector,Others,LAGOS,00010,26873,26873,THE MICROSOFT DYNAMICS NAV PERPETUAL ,USD,1,26873,Small Quanity,DOMESTIC,0,2014,Nov-95,MS-NAV,DOMESTIC,SOFTWARE
+Goldlink Insurance Plc,Insurance Sector,Others,LAGOS,00092,17010,17010,THE MICROSOFT DYNAMICS CRM 2013 LICENSE,USD,1,17010,Small Quanity,DOMESTIC,0,2014,Dec-95,MS-NAV,DOMESTIC,SOFTWARE
+WECO Systems International Ltd,Technology and Digital Solutions Sector,MS-NAV,LAGOS,00024,41890.8,0,Business Ready Enhancement Plan,USD,1,9175.2,Small Quanity,DOMESTIC,0,2014,Jan-96,MS-NAV,DOMESTIC,SOFTWARE
+WECO Systems International Ltd,Technology and Digital Solutions Sector,MS-NAV,LAGOS,00024,41890.8,41890.8,Lapsed Period,USD,1096,29.85,Large Quantity,DOMESTIC,0,2014,Feb-96,MS-NAV,DOMESTIC,SOFTWARE
+TKJ International Limited,"Engineering, Procurement and Construction Sector",Others,LAGOS,00093,11020,11020,THE MICROSOFT DYNAMICS AX 2012 R3 LICENSE,USD,1,11020,Small Quanity,DOMESTIC,0,2014,Mar-96,MS-NAV,DOMESTIC,SOFTWARE
+DANGOTE PEUGEOT AUTOMOBILE NIGERIA,Automotive Manufacturing Sector,Others,KADUNA,00237,10000,10000,Payroll Module,USD,1,10000,Small Quanity,DOMESTIC,1,2024,Apr-96,MS-NAV,DOMESTIC,SOFTWARE
+IHS Holding Limited,Telecommunications Infrastructure Sector,Others,LAGOS,00079,0,0,Licenses,NGN,1,0,Small Quanity,DOMESTIC,0,2014,May-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Jun-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Jul-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Aug-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Decemeber 2024,USD,1,40471.8,Small Quanity,DOMESTIC,1,2024,Sep-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Bal. on 2022-2023 renewal,USD,1,10133.76,Small Quanity,DOMESTIC,1,2023,Oct-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Nov-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Dec-96,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Jan-97,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",MS-AX,LAGOS,00137,452848.92,0,Others,USD,1,57267.6,Small Quanity,DOMESTIC,1,2023,Feb-97,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0, Balance on May Payment due 1st of May 2023,USD,1,7292.6,Small Quanity,DOMESTIC,0,2023,Mar-97,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0,Balance on 2022-2023 license renewal,USD,1,10133.76,Small Quanity,DOMESTIC,0,2023,Apr-97,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,0,MS DYN 365 FO,USD,1,7165.6,Small Quanity,DOMESTIC,0,2022,May-97,MS-NAV,DOMESTIC,SOFTWARE
+Chicason Group,"Manufacturing, Real estate and Investment Sector",Others,LAGOS,00137,452848.92,452848.92,MS DYN 365 FO,USD,1,27165.6,Small Quanity,DOMESTIC,0,2022,Jun-97,MS-NAV,DOMESTIC,SOFTWARE
+National Agency for Control of Aids,Public Health and Disease Control Sector,Others,ABUJA,00252,19.99,19.99,Business Central SSL Certificate,USD,1,19.99,Small Quanity,DOMESTIC,1,2024,Jul-97,MS-NAV,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,MS-AX,ABUJA,00242,5669440,0,Supply Chain Attach License ,NGN,5,424800,Small Quanity,DOMESTIC,1,2022,Aug-97,MS-NAV,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,MS-AX,ABUJA,00242,5669440,0,Azure - Dev. Environment,NGN,1,3540000,Small Quanity,DOMESTIC,1,2022,Sep-97,MS-NAV,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,Others,ABUJA,00242,5669440,0,Azure - Dev. Environment,USD,1,3340,Small Quanity,DOMESTIC,0,2022,Oct-97,MS-NAV,DOMESTIC,SOFTWARE
+Federal Capital Territory Internal Revenue Service,Government and Public Administration Sector,Others,ABUJA,00242,5669440,5669440,Supply Chain Attach License ,USD,10,210,Small Quanity,DOMESTIC,0,2022,Nov-97,MS-NAV,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Licenses,USD,1,92591.04,Small Quanity,DOMESTIC,1,2024,Dec-97,MS-NAV,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Microsoft Dynamics 365 Finance ,USD,20,2160,Large Quantity,DOMESTIC,1,2024,Jan-98,MS-NAV,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,0,Microsoft Dynamics 365 Supplychain,USD,20,2160,Large Quantity,DOMESTIC,1,2024,Feb-98,MS-NAV,DOMESTIC,SOFTWARE
+Midwestern Oil and Gas,Oil and Gas Sector,MS-AX,LAGOS,00182,168940.02,168940.02,Dev. Environment,USD,2,1022.49,Small Quanity,DOMESTIC,0,2024,Mar-98,MS-NAV,DOMESTIC,SOFTWARE
+CAL BANK PLC,Banking and Financial Services Sector,Others,ACCRA,00223,50300,0,Sales Full User,USD,5,1140,Small Quanity,FOREIGN,1,2023,Apr-98,MS-NAV,DOMESTIC,SOFTWARE
+CAL BANK PLC,Banking and Financial Services Sector,Others,ACCRA,00223,50300,0,Team Member User Licenses,USD,800,32,Large Quantity,FOREIGN,1,2023,May-98,MS-NAV,DOMESTIC,SOFTWARE
+CAL BANK PLC,Banking and Financial Services Sector,Others,ACCRA,00223,50300,50300,Dynamics 365 Sales Enterprise,USD,200,95,Large Quantity,FOREIGN,0,2023,Jun-98,MS-NAV,DOMESTIC,SOFTWARE
+ENERGY SHIELD PETROCHEMICAL LIMITED,Petrochemical Sector,Others,LAGOS,00261,4000,4000,Estimated Microsoft Azure Cloud Hosting March 2023,USD,1,4000,Small Quanity,DOMESTIC,1,2023,Jul-98,MS-NAV,DOMESTIC,SOFTWARE
+Access Pension Fund Custodian Limited,Financial Services and Pension Management Sector,Others,LAGOS,00209,408000,408000,Power BI Pro Renewal,NGN,5,81600,Small Quanity,DOMESTIC,1,2022,Aug-98,MS-NAV,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,MS-NAV,OTTAWA,00201,1283436.16,0,D365 BC,USD,1,1228.8,Small Quanity,FOREIGN,1,2022,Sep-98,MS-NAV,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,MS-NAV,OTTAWA,00201,1283436.16,0,D365 CE - Sales License,USD,1,1167.36,Small Quanity,FOREIGN,1,2022,Oct-98,MS-NAV,DOMESTIC,SOFTWARE
+Recyclan Limited,Waste Management and Recycling Sector,Others,OTTAWA,00201,1283436.16,1283436.16,Microsoft 365 Business License,NGN,1,1281040,Small Quanity,FOREIGN,0,2023,Nov-98,MS-NAV,DOMESTIC,SOFTWARE
+Lotus Capital Halal Investments,Financial Services and Investment Sector,MS-NAV,LAGOS,00235,5700,0,Microsoft Customer Engagement Sales License,USD,2,1140,Small Quanity,DOMESTIC,1,2022,Dec-98,MS-NAV,DOMESTIC,SOFTWARE
+Lotus Capital Halal Investments,Financial Services and Investment Sector,MS-NAV,LAGOS,00235,5700,5700,Microsoft Customer Engagement Customer Service License,USD,3,1140,Small Quanity,DOMESTIC,1,2022,Jan-99,MS-NAV,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,0,Annual Infrastructure renewal (Azure Cloud),USD,1,9679.68,Small Quanity,DOMESTIC,1,2021,Feb-99,MS-NAV,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,0,Additional Business Basic(3Users) July - Sep. 2021,USD,1,30,Small Quanity,DOMESTIC,1,2021,Mar-99,MS-NAV,DOMESTIC,SOFTWARE
+AGILE CREDIT,Financial Services Sector,MS-AZ,LAGOS,00210,10189.68,10189.68,Microsoft 365 Business License,USD,1,480,Small Quanity,DOMESTIC,1,2021,Apr-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",MS-NAV,LAGOS,00177,2313641.2,0,Additional BC Essential License,USD,1,2360,Small Quanity,DOMESTIC,0,2024,May-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Team Member User Licenses,USD,1,472,Small Quanity,DOMESTIC,0,2024,Jun-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Essential User Licenses,USD,1,2360,Small Quanity,DOMESTIC,0,2024,Jul-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,SQL Server License ,NGN,1,516350,Small Quanity,DOMESTIC,0,2022,Aug-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Windows Server,NGN,3,596160,Small Quanity,DOMESTIC,0,2022,Sep-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,0,Full Users,USD,2,1392,Small Quanity,DOMESTIC,0,2022,Oct-99,MS-NAV,DOMESTIC,SOFTWARE
+Ekulo Group,"Consumer Goods, Manufacturing, and Distribution Sector",Others,LAGOS,00177,2313641.2,2313641.2,Limited User,USD,3,278.4,Small Quanity,DOMESTIC,0,2022,Nov-99,MS-NAV,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,0,Windows Server,USD,1,14307.48,Small Quanity,DOMESTIC,0,2024,Dec-99,MS-NAV,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,0,Web Application Firewall,USD,1,9333.214,Small Quanity,DOMESTIC,0,2024,Jan-00,MS-NAV,DOMESTIC,SOFTWARE
+CDK Integrated Industries Limited,Manufacturing and Construction Sector,MS-AZ,OGUN,00159,33725.49,33725.49,Windows Server,USD,1,10084.8,Small Quanity,DOMESTIC,0,2024,Feb-00,MS-NAV,DOMESTIC,SOFTWARE
+DAJO OILFIELD & LOGISTICS,Oil and Gas Sector,MS-OFF,LAGOS,00316,3048,0,Business Standard,USD,8,150,Small Quanity,DOMESTIC,0,2024,Mar-00,MS-NAV,DOMESTIC,SOFTWARE
+DAJO OILFIELD & LOGISTICS,Oil and Gas Sector,MS-OFF,LAGOS,00316,3048,3048,Business Premium,USD,7,264,Small Quanity,DOMESTIC,0,2024,Apr-00,MS-NAV,DOMESTIC,SOFTWARE
+BUA,Industrial Sector,MS-NAV,LAGOS,00317,10572800,10572800,MS DYN 365 BC,NGN,2,5286400,Small Quanity,DOMESTIC,0,2024,May-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-NAV,LAGOS,00152,27628.98,0,Essential User Licenses,USD,5,2360,Small Quanity,DOMESTIC,0,2024,Jun-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Office 365 E3,USD,2,276,Small Quanity,DOMESTIC,0,2024,Jul-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Office 365 E3,USD,8,48,Small Quanity,DOMESTIC,0,2024,Aug-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Domain Cost,USD,1,13.98,Small Quanity,DOMESTIC,0,2024,Sep-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-SQL,LAGOS,00152,27628.98,0,SQL Server License ,USD,1,989,Small Quanity,DOMESTIC,0,2024,Oct-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-SQL,LAGOS,00152,27628.98,0,Windows Server,USD,18,205,Small Quanity,DOMESTIC,0,2024,Nov-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,0,Microsoft 365 Business License,USD,100,72,Large Quantity,DOMESTIC,0,2023,Dec-00,MS-NAV,DOMESTIC,SOFTWARE
+Mainland Oil & Gas Limited,Oil and Gas Sector,MS-OFF,LAGOS,00152,27628.98,27628.98,Microsoft 365 Business License,USD,20,150,Large Quantity,DOMESTIC,0,2023,Jan-01,MS-NAV,DOMESTIC,SOFTWARE
+MAFA RICE MILL LIMITED,Agriculture and Food Processing Sector,MS-NAV,KANO,00304,2876,0,Time and Attendance Machine,USD,2,438,Small Quanity,DOMESTIC,0,2024,Feb-01,MS-NAV,DOMESTIC,SOFTWARE
+MAFA RICE MILL LIMITED,Agriculture and Food Processing Sector,MS-NAV,KANO,00304,2876,2876,T & A Add-on(yearly),USD,1,2000,Small Quanity,DOMESTIC,0,2024,Mar-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,Others,ABUJA,00298,166464.88,0,BC Essential Users Licenses,USD,18,903,Small Quanity,DOMESTIC,0,2024,Apr-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,Others,ABUJA,00298,166464.88,0,BC Team Members Licenses,USD,75,103.2,Large Quantity,DOMESTIC,0,2024,May-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-NAV,ABUJA,00298,166464.88,0,Tables,USD,3,944,Small Quanity,DOMESTIC,0,2024,Jun-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-NAV,ABUJA,00298,166464.88,0,Code Units (100),USD,1,944,Small Quanity,DOMESTIC,0,2024,Jul-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,ABUJA,00298,166464.88,0,Security,USD,1,19704.168,Small Quanity,DOMESTIC,0,2024,Aug-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,ABUJA,00298,166464.88,0,PAYG Server Migrate,USD,1,30703.464,Small Quanity,DOMESTIC,0,2024,Sep-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,ABUJA,00298,166464.88,0,Server Migrate,USD,1,39379.296,Small Quanity,DOMESTIC,0,2024,Oct-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,ABUJA,00298,166464.88,0,PAYG Server Migrate,USD,1,21225.168,Small Quanity,DOMESTIC,0,2024,Nov-01,MS-NAV,DOMESTIC,SOFTWARE
+NNPC Pension Fund Limited,Financial Services Sector,MS-AZ,ABUJA,00298,166464.88,166464.88,Server Migrate,USD,1,27682.776,Small Quanity,DOMESTIC,0,2024,Dec-01,MS-NAV,DOMESTIC,SOFTWARE
+FEDERAL AIRPORTS AUTHORITY OF NIGERIA (FAAN),Aviation and Transportation Sector,MS-NAV,LAGOS,00021,94400,94400,Essential User Licenses,USD,40,2360,Large Quantity,DOMESTIC,0,2024,Jan-02,MS-NAV,DOMESTIC,SOFTWARE
+Credit Direct Limited,Financial Services Sector,MS-NAV,LAGOS,00062,300,300,DocuSign (Annual Renewal),USD,1,300,Small Quanity,DOMESTIC,0,2024,Feb-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-AX,RIVERS,00102,33866.4,0,Time and Attendance Machine,USD,2,115.2,Small Quanity,DOMESTIC,0,2024,Mar-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Exchange Online ,USD,100,48,Large Quantity,DOMESTIC,0,2024,Apr-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Exchange Online ,USD,1,96,Small Quanity,DOMESTIC,0,2024,May-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft 365 App,USD,5,144,Small Quanity,DOMESTIC,0,2024,Jun-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft 365 Business License,USD,23,264,Large Quantity,DOMESTIC,0,2024,Jul-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,0,Microsoft Entra,USD,1,108,Small Quanity,DOMESTIC,0,2024,Aug-02,MS-NAV,DOMESTIC,SOFTWARE
+AOS Orwell Limited,Oil and Gas Sector,MS-OFF,RIVERS,00102,33866.4,33866.4,Office 365 E1,USD,182,120,Large Quantity,DOMESTIC,0,2024,Sep-02,MS-NAV,DOMESTIC,SOFTWARE
+ACCESS INVESTOR SERVICES NOMINEE,Financial Services Sector,MS-NAV,LAGOS,00249,4720,4720,Additional BC Essential License,USD,2,2360,Small Quanity,DOMESTIC,0,2024,Oct-02,MS-NAV,DOMESTIC,SOFTWARE
+SIFAX Nigeria Limited,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,17456,0,Windows Server,USD,1,936,Small Quanity,DOMESTIC,0,2024,Nov-02,MS-NAV,DOMESTIC,SOFTWARE
+SIFAX Nigeria Limited,"Logistics, Maritime, and transportation sector",Others,LAGOS,00006,17456,17456,Premium License,USD,5,3304,Small Quanity,DOMESTIC,0,2024,Dec-02,MS-NAV,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,Others,LAGOS,00268,46256,0,Premium User,USD,10,3304,Small Quanity,DOMESTIC,0,2024,Jan-03,MS-NAV,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,Others,LAGOS,00268,46256,0,Team Member User Licenses,USD,20,472,Large Quantity,DOMESTIC,0,2024,Feb-03,MS-NAV,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,MS-NAV,LAGOS,00268,46256,0,Premium License,USD,1,3304,Small Quanity,DOMESTIC,0,2024,Mar-03,MS-NAV,DOMESTIC,SOFTWARE
+NIPCO Plc,Energy Sector,MS-NAV,LAGOS,00268,46256,46256,Additional Team Members Licenses,USD,1,472,Small Quanity,DOMESTIC,0,2024,Apr-03,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,MS-OFF,LAGOS,00142,3663040.86,0,Microsoft 365 Business License,NGN,10,115200,Small Quanity,DOMESTIC,0,2024,May-03,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,Others,LAGOS,00142,3663040.86,0,Office 365 E3,USD,1,276,Small Quanity,DOMESTIC,0,2024,Jun-03,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,MS-OFF,LAGOS,00142,3663040.86,0,Office 365 License Renewal Oustanding,NGN,1,2501530,Small Quanity,DOMESTIC,0,2024,Jul-03,MS-NAV,DOMESTIC,SOFTWARE
+North West Petroleum and Gas Co. LTD,Energy Sector,Others,LAGOS,00142,3663040.86,3663040.86,Azure Cloud Hosting & Site Recovery,USD,1,9234.86,Small Quanity,DOMESTIC,0,2021,Aug-03,MS-NAV,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Pharmaceuticals and Healthcare Sector,MS-AX,LAGOS,00267,717709,0,Annual Database Dataverse Capacity Add-on ,USD,10,480,Small Quanity,DOMESTIC,0,2024,Sep-03,MS-NAV,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00267,717709,0,Additional Sales(Full) ,USD,5,142505,Small Quanity,DOMESTIC,0,2023,Oct-03,MS-NAV,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Pharmaceuticals and Healthcare Sector,MS-CRM,LAGOS,00267,717709,0,Customer Service (team members),USD,2,96,Small Quanity,DOMESTIC,0,2023,Nov-03,MS-NAV,DOMESTIC,SOFTWARE
+ISN PRODUCTS NIG. LTD,Pharmaceuticals and Healthcare Sector,MS-CRM,LAGOS,00267,717709,717709,Field Service,USD,2,96,Small Quanity,DOMESTIC,0,2023,Dec-03,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,20,2360,Large Quantity,DOMESTIC,0,2024,Jan-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,5,472,Small Quanity,DOMESTIC,0,2024,Feb-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,M365 Business Standard,NGN,170,87000,Large Quantity,DOMESTIC,0,2022,Mar-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Office 365 E3,NGN,1,160080,Small Quanity,DOMESTIC,0,2022,Apr-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Office 365 Enterprise E5,NGN,2,264480,Small Quanity,DOMESTIC,0,2022,May-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,0,Exchange Online ,NGN,13,27840,Small Quanity,DOMESTIC,0,2022,Jun-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,MS-NAV,LAGOS,00130,25851608,0,User License,USD,10,2360,Small Quanity,DOMESTIC,0,2022,Jul-04,MS-NAV,DOMESTIC,SOFTWARE
+Fidson Healthcare PLC,Pharmaceuticals and Healthcare Sector,Others,LAGOS,00130,25851608,25851608,M365 Business Basic ,NGN,270,41760,Large Quantity,DOMESTIC,0,2022,Aug-04,MS-NAV,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,Others,LAGOS,00295,195000,0,Microsoft 365 Business License,USD,100,150,Large Quantity,DOMESTIC,0,2024,Sep-04,MS-NAV,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,Others,LAGOS,00295,195000,0,Microsoft 365 Business License,USD,1500,72,Large Quantity,DOMESTIC,0,2024,Oct-04,MS-NAV,DOMESTIC,SOFTWARE
+Adron Homes,Construction and Infrastructure Development Sector,MS-OFF,LAGOS,00295,195000,195000,Exchange Online ,USD,1500,48,Large Quantity,DOMESTIC,0,2024,Nov-04,MS-NAV,DOMESTIC,SOFTWARE
+Meristem Securities Limited,Financial Services Sector,Others,LAGOS,00088,11034,11034,Full Users,USD,5,2206.8,Small Quanity,DOMESTIC,0,2023,Dec-04,MS-NAV,DOMESTIC,SOFTWARE
+                          ,,MS-AZ,LAGOS,00294,28307448,28307448,Azure,NGN,1,28307448,Small Quanity,DOMESTIC,0,2024,Jan-05,MS-NAV,DOMESTIC,SOFTWARE
+Kam Industries Limited,Manufacturing Sector,MS-NAV,KWARA STATE,00154,944,944,Pages,USD,1,944,Small Quanity,DOMESTIC,0,2023,Feb-05,MS-NAV,DOMESTIC,SOFTWARE
